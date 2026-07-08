@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="fr"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="fr" xmlns:og="http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Caramail - Chat gratuit et rencontre gratuite sans inscription</title>
+<meta name="keywords" content="chat gratuit, tchat gratuit, chat sans inscription, tchat sans inscription" />
+<meta name="description" content="Caramail tchat gratuit - faites des rencontres facilement et gratuitement !"/>
+<meta name="robots" content="index, follow" />
+<meta name="classification" content="Internet, Chat, Rencontre, Discussion" />
+<meta name="rating" content="general" />
+<meta name="author" content="chat-caramail.fr"/>
+<meta name="distribution" content="global" />
+<meta name="type" content="chat" />
+<meta name="category" content="chat" />
+<meta name="identifier-url" content="https://chat-caramail.fr" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="content-language" content="fr" />
+<meta name="abstract" content="Chat gratuit et site de rencontre 100% gratuit" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:title" content="Chat Caramail" />
+<meta property="og:description" content="Caramail chat gratuit et site de rencontre gratuit. Chat Caramail webcam, faites des rencontres facilement et gratuitement."/>
+<meta property="og:site_name" content="Chat Caramail" />
+<meta property="og:url" content="https://chat-caramail.fr" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content='https://chat-caramail.fr/assets/images/fb.png' />
+<link rel="canonical" href="https://chat-caramail.fr" />
+<link rel="alternate" href="https://chat-caramail.fr" hreflang="fr" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/styles/foundation.min.css">
+<link rel="stylesheet" href="assets/styles/font-awesome.min.css">
+<link rel="stylesheet" href="assets/styles/prettyPhoto.css">
+<link rel="stylesheet" href="assets/styles/app.css">
+<link rel="stylesheet" href="assets/styles/updates.css">
+<link rel="stylesheet" href="assets/styles/custom.css?v=2">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic&display=swap' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Yesteryear&display=swap' rel='stylesheet' type='text/css'>
+<!--[if IE 7]>
+<link rel="stylesheet" href="assets/styles/font-awesome-ie7.min.css">
+<script src="assets/scripts/ie6/warning.js"></script>
+<script>window.onload=function(){e("assets/scripts/ie6/")}</script>
+<![endif]-->
+<link rel="shortcut icon" href="assets/images/icons/favicon.ico?v=3">
+<script type="text/javascript" src="assets/scripts/modernizr.foundation.js"></script> 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Chat Caramail",
+  "url": "https://chat-caramail.fr",
+  "description": "Chat gratuit sans inscription. Tchat en ligne pour discuter en direct et faire des rencontres dans des salons de discussion conviviaux.",
+  "inLanguage": "fr"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Chat Caramail",
+  "url": "https://chat-caramail.fr",
+  "logo": "https://chat-caramail.fr/assets/images/logo_black.png",
+  "foundingDate": "2016",
+  "description": "Service de tchat gratuit francophone, sécurisé, sans inscription et sans abonnement.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@chat-caramail.fr",
+    "contactType": "customer service",
+    "availableLanguage": "French"
+  }
+}
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7316954709847555"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<!-- Page -->
+<div class="page boxed-style">
+<!-- Header -->
+<header>
+<div class="header-bg">
+<div id="header">
+	<div class="row">
+    <!-- Main -->
+    <div class="five columns push-four">
+    	<div class="space-b-20 hide-for-small">&nbsp;</div>
+      <nav class="top-bar">
+        <ul>
+          <!-- Mobile -->
+          <li class="name">
+            <span><a href="#">Menu</a></span>
+          </li>
+          <li class="toggle-topbar"><a href="#"><i class="icon-reorder"></i></a></li>
+        </ul>
+      <!-- Nav Section -->
+        <section>
+          <ul class="left">
+            <li><a href="https://chat-caramail.fr"><i class="icon-home"></i> ACCUEIL</a></li> 
+            <li class="has-dropdown">
+              <a><i class="icon-comment"></i> T'CHAT EN LIGNE</a>
+              <ul class="dropdown">
+                <li class="has-dropdown"><a class="sub-menu-link">Par région</a>
+                  <ul class="dropdown">
+                    <li><a href="rencontre/alsace/">Alsace</a></li>
+                    <li><a href="rencontre/aquitaine/" class="sub-menu-link">Aquitaine</a></li>
+                    <li><a href="rencontre/auvergne/" class="sub-menu-link">Auvergne</a></li>
+                    <li><a href="rencontre/basse-normandie/" class="sub-menu-link">Basse-Normandie</a></li>
+                    <li><a href="rencontre/bourgogne/" class="sub-menu-link">Bourgogne</a></li>
+                    <li><a href="rencontre/bretagne/" class="sub-menu-link">Bretagne</a></li>
+                    <li><a href="rencontre/centre/" class="sub-menu-link">Centre</a></li>
+                    <li><a href="rencontre/champagne-ardenne/" class="sub-menu-link">Champagne-Ardenne</a></li>
+                    <li><a href="rencontre/corse/" class="sub-menu-link">Corse</a></li>
+                    <li><a href="rencontre/dom-tom/" class="sub-menu-link">Dom-Tom</a></li>
+                    <li><a href="rencontre/franche-comte/" class="sub-menu-link">Franche-Comte</a></li>
+                    <li><a href="rencontre/haute-normandie/" class="sub-menu-link">Haute-Normandie</a></li>
+                    <li><a href="rencontre/ile-de-france/" class="sub-menu-link">Ile-de-France</a></li>
+                    <li><a href="rencontre/languedoc-roussillon/" class="sub-menu-link">Languedoc-Roussillon</a></li>
+                    <li><a href="rencontre/limousin/" class="sub-menu-link">Limousin</a></li>
+                    <li><a href="rencontre/lorraine/" class="sub-menu-link">Lorraine</a></li>
+                    <li><a href="rencontre/midi-pyrenees/" class="sub-menu-link">Midi-Pyrénées</a></li>
+                    <li><a href="rencontre/nord-pas-de-calais/" class="sub-menu-link">Nord-Pas-de-Calais</a></li>
+                    <li><a href="rencontre/pays-de-la-loire/" class="sub-menu-link">Pays de la Loire</a></li>
+                    <li><a href="rencontre/picardie/" class="sub-menu-link">Picardie</a></li>
+                    <li><a href="rencontre/poitou-charentes/" class="sub-menu-link">Poitou-Charentes</a></li>
+                    <li><a href="rencontre/provence-alpes-cote-d-azur/" class="sub-menu-link">Provence-Alpes-Cote d'Azur</a></li>
+                    <li><a href="rencontre/rhone-alpes/" class="sub-menu-link">Rhône-Alpes</a></li>
+                  </ul>
+                </li>
+				<li class="has-dropdown"><a class="sub-menu-link">Par Département</a>
+                  <ul class="dropdown">
+                    <li><a href="rencontre/ain/" class="sub-menu-link">Ain</a></li>
+                    <li><a href="rencontre/aisne/" class="sub-menu-link">Aisne</a></li>
+                    <li><a href="rencontre/allier/" class="sub-menu-link">Allier</a></li>
+                    <li><a href="rencontre/alpes-de-haute-provence/" class="sub-menu-link">Alpes-de-Haute-Provence</a></li>
+                    <li><a href="rencontre/alpes-maritimes/" class="sub-menu-link">Alpes-Maritimes</a></li>
+                    <li><a href="rencontre/ardeche/" class="sub-menu-link">Ardèche</a></li>
+                    <li><a href="rencontre/ardennes/" class="sub-menu-link">Ardennes</a></li>
+                    <li><a href="rencontre/ariege/" class="sub-menu-link">Ariège</a></li>
+                    <li><a href="rencontre/aube/" class="sub-menu-link">Aube</a></li>
+                    <li><a href="rencontre/aude/" class="sub-menu-link">Aude</a></li>
+                    <li><a href="rencontre/aveyron/" class="sub-menu-link">Aveyron</a></li>
+                    <li><a href="rencontre/bas-rhin/" class="sub-menu-link">Bas-Rhin</a></li>
+                    <li><a href="rencontre/bouches-du-rhone/" class="sub-menu-link">Bouches-du-Rhône</a></li>
+                    <li><a href="rencontre/calvados/" class="sub-menu-link">Calvados</a></li>
+                    <li><a href="rencontre/cantal/" class="sub-menu-link">Cantal</a></li>
+                    <li><a href="rencontre/charente/" class="sub-menu-link">Charente</a></li>
+                    <li><a href="rencontre/charente-maritime/" class="sub-menu-link">Charente-Maritime</a></li>
+                    <li><a href="rencontre/cher/" class="sub-menu-link">Cher</a></li>
+                    <li><a href="rencontre/correze/" class="sub-menu-link">Corrèze</a></li>
+                    <li><a href="rencontre/corse-du-sud/" class="sub-menu-link">Corse-du-Sud</a></li>
+                    <li><a href="rencontre/cote-d-or/" class="sub-menu-link">Côte-d'Or</a></li>
+                    <li><a href="rencontre/cotes-d-armor/" class="sub-menu-link">Côtes-d'Armor</a></li>
+                    <li><a href="rencontre/creuse/" class="sub-menu-link">Creuse</a></li>
+                    <li><a href="rencontre/deux-sevres/" class="sub-menu-link">Deux-Sèvres</a></li>
+                    <li><a href="rencontre/dordogne/" class="sub-menu-link">Dordogne</a></li>
+                    <li><a href="rencontre/doubs/" class="sub-menu-link">Doubs</a></li>
+                    <li><a href="rencontre/drome/" class="sub-menu-link">Drôme</a></li>
+                    <li><a href="rencontre/essonne/" class="sub-menu-link">Essonne</a></li>
+                    <li><a href="rencontre/eure/" class="sub-menu-link">Eure</a></li>
+                    <li><a href="rencontre/eure-et-loir/" class="sub-menu-link">Eure-et-Loir</a></li>
+                    <li><a href="rencontre/finistere/" class="sub-menu-link">Finistère</a></li>
+                    <li><a href="rencontre/gard/" class="sub-menu-link">Gard</a></li>
+                    <li><a href="rencontre/gers/" class="sub-menu-link">Gers</a></li>
+                    <li><a href="rencontre/gironde/" class="sub-menu-link">Gironde</a></li>
+                    <li><a href="rencontre/guadeloupe/" class="sub-menu-link">Guadeloupe</a></li>
+                    <li><a href="rencontre/guyane/" class="sub-menu-link">Guyane</a></li>
+                    <li><a href="rencontre/haut-rhin/" class="sub-menu-link">Haut-Rhin</a></li>
+                    <li><a href="rencontre/haute-corse/" class="sub-menu-link">Haute-Corse</a></li>
+                    <li><a href="rencontre/haute-garonne/" class="sub-menu-link">Haute-Garonne</a></li>
+                    <li><a href="rencontre/haute-loire/" class="sub-menu-link">Haute-Loire</a></li>
+                    <li><a href="rencontre/haute-marne/" class="sub-menu-link">Haute-Marne</a></li>
+                    <li><a href="rencontre/haute-saone/" class="sub-menu-link">Haute-Saône</a></li>
+                    <li><a href="rencontre/haute-savoie/" class="sub-menu-link">Haute-Savoie</a></li>
+                    <li><a href="rencontre/haute-vienne/" class="sub-menu-link">Haute-Vienne</a></li>
+                    <li><a href="rencontre/hautes-alpe/" class="sub-menu-link">Hautes-Alpes</a></li>
+                    <li><a href="rencontre/hautes-pyrenees/" class="sub-menu-link">Hautes-Pyrénées</a></li>
+                    <li><a href="rencontre/hauts-de-seine/" class="sub-menu-link">Hauts-de-Seine</a></li>
+                    <li><a href="rencontre/herault/" class="sub-menu-link">Hérault</a></li>
+                    <li><a href="rencontre/ille-et-vilaine/" class="sub-menu-link">Ille-et-Vilaine</a></li>
+                    <li><a href="rencontre/indre/" class="sub-menu-link">Indre</a></li>
+                    <li><a href="rencontre/indre-et-loire/" class="sub-menu-link">Indre-et-Loire</a></li>
+                    <li><a href="rencontre/isere/" class="sub-menu-link">Isère</a></li>
+                    <li><a href="rencontre/jura/" class="sub-menu-link">Jura</a></li>
+                    <li><a href="rencontre/la-reunion/" class="sub-menu-link">La Réunion</a></li>
+                    <li><a href="rencontre/landes/" class="sub-menu-link">Landes</a></li>
+                    <li><a href="rencontre/loir-et-cher/" class="sub-menu-link">Loir-et-Cher</a></li>
+                    <li><a href="rencontre/loire/" class="sub-menu-link">Loire</a></li>
+                    <li><a href="rencontre/loire-atlantique/" class="sub-menu-link">Loire-Atlantique</a></li>
+                    <li><a href="rencontre/loiret/" class="sub-menu-link">Loiret</a></li>
+                    <li><a href="rencontre/lot/" class="sub-menu-link">Lot</a></li>
+                    <li><a href="rencontre/lot-et-garonne/" class="sub-menu-link">Lot-et-Garonne</a></li>
+                    <li><a href="rencontre/lozere/" class="sub-menu-link">Lozère</a></li>
+                    <li><a href="rencontre/maine-et-loire/" class="sub-menu-link">Maine-et-Loire</a></li>
+                    <li><a href="rencontre/manche/" class="sub-menu-link">Manche</a></li>
+                    <li><a href="rencontre/marne/" class="sub-menu-link">Marne</a></li>
+                    <li><a href="rencontre/martinique/" class="sub-menu-link">Martinique</a></li>
+                    <li><a href="rencontre/mayenne/" class="sub-menu-link">Mayenne</a></li>
+                    <li><a href="rencontre/meurthe-et-moselle/" class="sub-menu-link">Meurthe-et-Moselle</a></li>
+                    <li><a href="rencontre/meuse/" class="sub-menu-link">Meuse</a></li>
+                    <li><a href="rencontre/morbihan/" class="sub-menu-link">Morbihan</a></li>
+                    <li><a href="rencontre/moselle/" class="sub-menu-link">Moselle</a></li>
+                    <li><a href="rencontre/nievre/" class="sub-menu-link">Nièvre</a></li>
+                    <li><a href="rencontre/nord/" class="sub-menu-link">Nord</a></li>
+                    <li><a href="rencontre/nouvelle-caledonie/" class="sub-menu-link">Nouvelle-Calédonie</a></li>
+                    <li><a href="rencontre/oise/" class="sub-menu-link">Oise</a></li>
+                    <li><a href="rencontre/orne/" class="sub-menu-link">Orne</a></li>
+                    <li><a href="rencontre/paris/" class="sub-menu-link">Paris</a></li>
+                    <li><a href="rencontre/pas-de-calais/" class="sub-menu-link">Pas-de-Calais</a></li>
+                    <li><a href="rencontre/polynesie-francaise/" class="sub-menu-link">Polynésie Française</a></li>
+                    <li><a href="rencontre/puy-de-dome/" class="sub-menu-link">Puy-de-Dôme</a></li>
+                    <li><a href="rencontre/pyrenees-atlantiques/" class="sub-menu-link">Pyrénées-Atlantiques</a></li>
+                    <li><a href="rencontre/pyrénées-orientales/" class="sub-menu-link">Pyrénées-Orientales</a></li>
+                    <li><a href="rencontre/rhone/" class="sub-menu-link">Rhône</a></li>
+                    <li><a href="rencontre/saone-et-loire/" class="sub-menu-link">Saône-et-Loire</a></li>
+                    <li><a href="rencontre/sarthe/" class="sub-menu-link">Sarthe</a></li>
+                    <li><a href="rencontre/savoie/" class="sub-menu-link">Savoie</a></li>
+                    <li><a href="rencontre/seine-et-marne/" class="sub-menu-link">Seine-et-Marne</a></li>
+                    <li><a href="rencontre/seine-maritime/" class="sub-menu-link">Seine-Maritime</a></li>
+                    <li><a href="rencontre/seine-saint-denis/" class="sub-menu-link">Seine-Saint-Denis</a></li>
+                    <li><a href="rencontre/somme/" class="sub-menu-link">Somme</a></li>
+                    <li><a href="rencontre/st-pierre-et-miquelon/" class="sub-menu-link">St-Pierre et Miquelon</a></li>
+                    <li><a href="rencontre/tarn/" class="sub-menu-link">Tarn</a></li>
+                    <li><a href="rencontre/tarn-et-garonne/" class="sub-menu-link">Tarn-et-Garonne</a></li>
+                    <li><a href="rencontre/territoire-de-belfort/" class="sub-menu-link">Territoire de Belfort</a></li>
+                    <li><a href="rencontre/val-d-oise/" class="sub-menu-link">Val-d'Oise</a></li>
+                    <li><a href="rencontre/val-de-marne/" class="sub-menu-link">Val-de-Marne</a></li>
+                    <li><a href="rencontre/var/" class="sub-menu-link">Var</a></li>
+                    <li><a href="rencontre/vaucluse/" class="sub-menu-link">Vaucluse</a></li>
+                    <li><a href="rencontre/vendee/" class="sub-menu-link">Vendée</a></li>
+                    <li><a href="rencontre/vienne/" class="sub-menu-link">Vienne</a></li>
+                    <li><a href="rencontre/vosges/" class="sub-menu-link">Vosges</a></li>
+                    <li><a href="rencontre/vonne/" class="sub-menu-link">Yonne</a></li>
+                    <li><a href="rencontre/yvelines/" class="sub-menu-link">Yvelines</a></li>
+                  </ul>
+                </li>
+				
+				<li class="has-dropdown"><a class="sub-menu-link">Par Ville</a>
+                  <ul class="dropdown">
+					<li><a href="rencontre/abergement-la-ronce/" class="sub-menu-link">Abergement-la-ronce</a></li>
+					<li><a href="rencontre/agen/" class="sub-menu-link">Agen</a></li>
+					<li><a href="rencontre/ajaccio/" class="sub-menu-link">Ajaccio</a></li>
+					<li><a href="rencontre/albi/" class="sub-menu-link">Albi</a></li>
+					<li><a href="rencontre/alencon/" class="sub-menu-link">Alençon</a></li>
+					<li><a href="rencontre/amiens/" class="sub-menu-link">Amiens</a></li>
+					<li><a href="rencontre/angers/" class="sub-menu-link">Angers</a></li>
+					<li><a href="rencontre/angouleme/" class="sub-menu-link">Angoulême</a></li>
+					<li><a href="rencontre/annecy/" class="sub-menu-link">Annecy</a></li>
+					<li><a href="rencontre/arras/" class="sub-menu-link">Arras</a></li>
+					<li><a href="rencontre/auch/" class="sub-menu-link">Auch</a></li>
+					<li><a href="rencontre/aurillac/" class="sub-menu-link">Aurillac</a></li>
+					<li><a href="rencontre/auxerre/" class="sub-menu-link">Auxerre</a></li>
+					<li><a href="rencontre/avignon/" class="sub-menu-link">Avignon</a></li>
+					<li><a href="rencontre/bar-le-duc/" class="sub-menu-link">Bar-le-duc</a></li>
+					<li><a href="rencontre/beauvais/" class="sub-menu-link">Beauvais</a></li>
+					<li><a href="rencontre/belfort/" class="sub-menu-link">Belfort</a></li>
+					<li><a href="rencontre/besançon/" class="sub-menu-link">Besançon</a></li>
+					<li><a href="rencontre/blois/" class="sub-menu-link">Blois</a></li>
+					<li><a href="rencontre/bobigny/" class="sub-menu-link">Bobigny</a></li>
+					<li><a href="rencontre/bordeaux/" class="sub-menu-link">Bordeaux</a></li>
+					<li><a href="rencontre/bourg-en-bresse/" class="sub-menu-link">Bourg-en-bresse</a></li>
+					<li><a href="rencontre/bourges/" class="sub-menu-link">Bourges</a></li>
+					<li><a href="rencontre/caen/" class="sub-menu-link">Caen</a></li>
+					<li><a href="rencontre/cahors/" class="sub-menu-link">Cahors</a></li>
+					<li><a href="rencontre/carcassonne/" class="sub-menu-link">Carcassonne</a></li>
+					<li><a href="rencontre/chalons-en-champagne/" class="sub-menu-link">Châlons-en-champagne</a></li>
+					<li><a href="rencontre/chambery/" class="sub-menu-link">Chambéry</a></li>
+					<li><a href="rencontre/charleville-mezieres/" class="sub-menu-link">Charleville-mézières</a></li>
+					<li><a href="rencontre/chartres/" class="sub-menu-link">Chartres</a></li>
+					<li><a href="rencontre/chateauroux/" class="sub-menu-link">Châteauroux</a></li>
+					<li><a href="rencontre/clermont-ferrand/" class="sub-menu-link">Clermont-ferrand</a></li>
+					<li><a href="rencontre/colmar/" class="sub-menu-link">Colmar</a></li>
+					<li><a href="rencontre/creteil/" class="sub-menu-link">Créteil</a></li>
+					<li><a href="rencontre/dignes-les-bains/" class="sub-menu-link">Dignes-les-Bains</a></li>
+					<li><a href="rencontre/dijon/" class="sub-menu-link">Dijon</a></li>
+					<li><a href="rencontre/epinal/" class="sub-menu-link">Épinal</a></li>
+					<li><a href="rencontre/evreux/" class="sub-menu-link">Évreux</a></li>
+					<li><a href="rencontre/evry/" class="sub-menu-link">Évry</a></li>
+					<li><a href="rencontre/foix/" class="sub-menu-link">Foix</a></li>
+					<li><a href="rencontre/gap/" class="sub-menu-link">Gap</a></li>
+					<li><a href="rencontre/grenoble/" class="sub-menu-link">Grenoble</a></li>
+					<li><a href="rencontre/gueret/" class="sub-menu-link">Guéret</a></li>
+					<li><a href="rencontre/la-roche-sur-yon/" class="sub-menu-link">La Roche-sur-yon</a></li>
+					<li><a href="rencontre/la-rochelle/" class="sub-menu-link">La Rochelle</a></li>
+					<li><a href="rencontre/laon/" class="sub-menu-link">Laon</a></li>
+					<li><a href="rencontre/le-mans/" class="sub-menu-link">Le Mans</a></li>
+					<li><a href="rencontre/lille/" class="sub-menu-link">Lille</a></li>
+					<li><a href="rencontre/limoges/" class="sub-menu-link">Limoges</a></li>
+					<li><a href="rencontre/lons-le-saunier/" class="sub-menu-link">Lons-le-saunier</a></li>
+					<li><a href="rencontre/lyon/" class="sub-menu-link">Lyon</a></li>
+					<li><a href="rencontre/macon/" class="sub-menu-link">Mâcon</a></li>
+					<li><a href="rencontre/marseille/" class="sub-menu-link">Marseille</a></li>
+					<li><a href="rencontre/melun/" class="sub-menu-link">Melun</a></li>
+					<li><a href="rencontre/mende/" class="sub-menu-link">Mende</a></li>
+					<li><a href="rencontre/metz/" class="sub-menu-link">Metz</a></li>
+					<li><a href="rencontre/mont-de-marsan/" class="sub-menu-link">Mont-de-marsan</a></li>
+					<li><a href="rencontre/montauban/" class="sub-menu-link">Montauban</a></li>
+					<li><a href="rencontre/montpellier/" class="sub-menu-link">Montpellier</a></li>
+					<li><a href="rencontre/moulins/" class="sub-menu-link">Moulins</a></li>
+					<li><a href="rencontre/mancy/" class="sub-menu-link">Nancy</a></li>
+					<li><a href="rencontre/nanterre/" class="sub-menu-link">Nanterre</a></li>
+					<li><a href="rencontre/nantes/" class="sub-menu-link">Nantes</a></li>
+					<li><a href="rencontre/nevers/" class="sub-menu-link">Nevers</a></li>
+					<li><a href="rencontre/nice/" class="sub-menu-link">Nice</a></li>
+					<li><a href="rencontre/nimes/" class="sub-menu-link">Nîmes</a></li>
+					<li><a href="rencontre/niort/" class="sub-menu-link">Niort</a></li>
+					<li><a href="rencontre/orleans/" class="sub-menu-link">Orléans</a></li>
+					<li><a href="rencontre/pau/" class="sub-menu-link">Pau</a></li>
+					<li><a href="rencontre/perigueux/" class="sub-menu-link">Périgueux</a></li>
+					<li><a href="rencontre/perpignan/" class="sub-menu-link">Perpignan</a></li>
+					<li><a href="rencontre/poitiers/" class="sub-menu-link">Poitiers</a></li>
+					<li><a href="rencontre/pontoise/" class="sub-menu-link">Pontoise</a></li>
+					<li><a href="rencontre/privas/" class="sub-menu-link">Privas</a></li>
+					<li><a href="rencontre/quimper/" class="sub-menu-link">Quimper</a></li>
+					<li><a href="rencontre/rennes/" class="sub-menu-link">Rennes</a></li>
+					<li><a href="rencontre/rodez/" class="sub-menu-link">Rodez</a></li>
+					<li><a href="rencontre/rouen/" class="sub-menu-link">Rouen</a></li>
+					<li><a href="rencontre/saint-brieuc/" class="sub-menu-link">Saint-brieuc</a></li>
+					<li><a href="rencontre/saint-etienne/" class="sub-menu-link">Saint-Étienne</a></li>
+					<li><a href="rencontre/saint-lo/" class="sub-menu-link">Saint-lô</a></li>
+					<li><a href="rencontre/strasbourg/" class="sub-menu-link">Strasbourg</a></li>
+					<li><a href="rencontre/tarbes/" class="sub-menu-link">Tarbes</a></li>
+					<li><a href="rencontre/toulon/" class="sub-menu-link">Toulon</a></li>
+					<li><a href="rencontre/toulouse/" class="sub-menu-link">Toulouse</a></li>
+					<li><a href="rencontre/tours/" class="sub-menu-link">Tours</a></li>
+					<li><a href="rencontre/troyes/" class="sub-menu-link">Troyes</a></li>
+					<li><a href="rencontre/tulle/" class="sub-menu-link">Tulle</a></li>
+					<li><a href="rencontre/valence/" class="sub-menu-link">Valence</a></li>
+					<li><a href="rencontre/vannes/" class="sub-menu-link">Vannes</a></li>
+					<li><a href="rencontre/versailles/" class="sub-menu-link">Versailles</a></li>
+					<li><a href="rencontre/vesoul/" class="sub-menu-link">Vesoul</a></li>
+                  </ul>
+                </li>
+		
+				<li class="has-dropdown"><a class="sub-menu-link">Recontre gratuite</a>
+                  <ul class="dropdown">
+					<li><a href="rencontre/homme-cherche-femme/" class="sub-menu-link">Homme cherche femme</a></li>
+					<li><a href="rencontre/femme-cherche-homme/" class="sub-menu-link">Femme cherche homme</a></li>
+					<li><a href="rencontre/homme-cherche-homme/" class="sub-menu-link">Homme cherche homme</a></li>
+					<li><a href="rencontre/femme-cherche-femme/" class="sub-menu-link">Femme cherche femme</a></li>
+					<li><a href="rencontre/amoureuse/" class="sub-menu-link">Rencontre amoureuse</a></li>
+					<li><a href="rencontre/amicale/" class="sub-menu-link">Rencontre amicale</a></li>
+					<li><a href="rencontre/virtuelle/" class="sub-menu-link">Rencontre virtuelle</a></li>
+					<li><a href="rencontre/celibataire/" class="sub-menu-link">Rencontre célibataire</a></li>
+					<li><a href="rencontre/couple/" class="sub-menu-link">Rencontre couple</a></li>
+					<li><a href="rencontre/homosexuels/" class="sub-menu-link">Rencontre homosexuelle</a></li>
+				<!--	<li><a href="rencontre/gay/" class="sub-menu-link">Rencontre gay</a></li> 
+					<li><a href="rencontre/lesbienne/" class="sub-menu-link">Rencontre lesbienne</a></li>
+					<li><a href="rencontre/coquine/" class="sub-menu-link">Rencontre coquine</a></li>
+					<li><a href="rencontre/sexy/" class="sub-menu-link">Rencontre sexy</a></li>  -->
+                  </ul>
+                </li>		
+				
+				<li class="has-dropdown"><a class="sub-menu-link">Divers</a>
+                  <ul class="dropdown">
+				    <li><a href="tchat-france/" class="sub-menu-link">Tchat France</a></li>
+					<li><a href="tchat-canada/" class="sub-menu-link">Tchat canada</a></li>
+					<li><a href="tchat-quebec/" class="sub-menu-link">Tchat quebec</a></li>
+					<li><a href="tchat-belgique/" class="sub-menu-link">Tchat belgique</a></li>
+					<li><a href="tchat-suisse/" class="sub-menu-link">Tchat suisse</a></li>
+					<li><a href="chatteurs/" class="sub-menu-link">Chatteurs</a></li>
+					<li><a href="chat-gratuit/" class="sub-menu-link">Chat gratuit</a></li>
+					<li><a href="tchat-en-ligne/" class="sub-menu-link">Tchat en ligne</a></li>
+					<li><a href="tchat-gratuit/" class="sub-menu-link">Tchat gratuit</a></li>
+          <li><a href="tchat-direct/" class="sub-menu-link">Tchat direct</a></li>
+					<li><a href="tchatche-gratuit/" class="sub-menu-link">Tchatche gratuit</a></li>
+					<li><a href="webcam-gratuit/" class="sub-menu-link">Webcam gratuit</a></li>
+				    <li><a href="dial-gratuit/" class="sub-menu-link">Dial gratuit</a></li>
+					<li><a href="chat-ados/" class="sub-menu-link">Chat-ados</a></li>
+					<li><a href="site-de-rencontre/" class="sub-menu-link">Site de rencontre</a></li>
+					<li><a href="cam-to-cam/" class="sub-menu-link">Cam-to-Cam</a></li>
+					<li><a href="tchat-visio/" class="sub-menu-link">Tchat visio</a></li>
+					<li><a href="tchatche/" class="sub-menu-link">Tchatche</a></li>
+					<li><a href="tchat/" class="sub-menu-link">Tchat</a></li>
+				<!--	<li><a href="chat-x/" class="sub-menu-link">Chat X</a></li> -->
+                  </ul>
+                </li>
+				
+              </ul>
+            </li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+      
+    <!-- Logo -->
+    <div class="four columns pull-five">
+      <div id="logo">Chat gratuit sans inscription et rencontre gratuite
+      	<a href="https://chat-caramail.fr"><img src="assets/images/logo_black.png"></a>
+      </div>
+    </div>
+<?php
+$data_chan = file_get_contents("https://network.chaat.fr/rest/service.php/channels/%23accueil");
+$decode_chan = json_decode($data_chan, true);
+if(empty($decode_chan)) $users = "??"; else $users = $decode_chan['users'];
+?>
+		
+    <div class="twelve columns">
+      <div class="row">
+      
+      	<!-- Head Form -->
+        <div class="five columns form-wrapper">
+          <div class="form-header text-center">
+            <p class="lead text-resize">- <strong>Tchat en ligne</strong> -<br>Rejoindre les <strong><font color="#e6e6e6"><?php echo "$users" ;?></font></strong> t'chatteurs<br><strong><font color="#e6e6e6">Rencontre gratuite</font></strong> & <strong><font color="#e6e6e6">sans inscription</font></strong></p>
+          </div>
+          <!-- Connexion form -->
+          <form action="chat/index.php" method="post" class="custom form-search">
+            <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Pseudo </label>
+              </div>
+              <div class="seven mobile-four columns">
+				<input name="pseudo" type="text" maxlength="30" required="required" />
+              </div>
+            </div>
+		  <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Je suis :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand" name="sexe" id="sexe">
+                  <option selected="selected" value="H">Un homme</option>
+                  <option value="F">Une femme</option>
+                </select>
+              </div>
+            </div>
+			<div class="row">
+              <div class="five mobile-one columns">
+                <label class="right inline">Âge :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand customDropdown" name="age" id="age">
+				  <option value="18" selected="selected">18 ans</option> <option value="19">19 ans</option> <option value="20">20 ans</option> <option value="21">21 ans</option> <option value="22">22 ans</option> <option value="23">23 ans</option> <option value="24">24 ans</option> <option value="25">25 ans</option> <option value="26">26 ans</option> <option value="27">27 ans</option> <option value="28">28 ans</option> <option value="29">29 ans</option> <option value="30">30 ans</option> <option value="31">31 ans</option> <option value="32">32 ans</option> <option value="33">33 ans</option> <option value="34">34 ans</option> <option value="35">35 ans</option> <option value="36">36 ans</option> <option value="37">37 ans</option> <option value="38">38 ans</option> <option value="39">39 ans</option> <option value="40">40 ans</option> <option value="41">41 ans</option> <option value="42">42 ans</option> <option value="43">43 ans</option> <option value="44">44 ans</option> <option value="45">45 ans</option> <option value="46">46 ans</option> <option value="47">47 ans</option> <option value="48">48 ans</option> <option value="49">49 ans</option> <option value="50">50 ans</option> <option value="51">51 ans</option> <option value="52">52 ans</option> <option value="53">53 ans</option><option value="54">54 ans</option><option value="55">55 ans</option><option value="56">56 ans</option><option value="57">57 ans</option> <option value="58">58 ans</option><option value="59">59 ans</option><option value="60">60 ans</option><option value="61">61 ans</option><option value="62">62 ans</option> <option value="63">63 ans</option> <option value="64">64 ans</option> <option value="65">65 ans</option> <option value="66">66 ans</option> <option value="67">67 ans</option> <option value="68">68 ans</option> <option value="69">69 ans</option><option value="70">70 ans</option><option value="71">71 ans</option><option value="72">72 ans</option><option value="73">73 ans</option><option value="74">74 ans</option><option value="75">75 ans</option><option value="76">76 ans</option><option value="77">77 ans</option><option value="78">78 ans</option><option value="79">79 ans</option><option value="80">80 ans</option><option value="81">81 ans</option><option value="82">82 ans</option><option value="83">83 ans</option><option value="84">84 ans</option><option value="85">85 ans</option><option value="86">86 ans</option><option value="87">87 ans</option><option value="88">88 ans</option><option value="89">89 ans</option><option value="90">90 ans</option><option value="91">91 ans</option><option value="92">92 ans</option><option value="93">93 ans</option><option value="94">94 ans</option><option value="95">95 ans</option><option value="96">96 ans</option><option value="97">97 ans</option><option value="98">98 ans</option><option value="99">99 ans</option>
+                </select>
+              </div>
+            </div>
+            <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Département :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand" name="ville" id="ville">
+                   <option class="0" value="">---</option><option class="1">01 Ain</option><option class="1">02 Aisne</option><option class="1">03 Allier</option><option class="1">04 Alpes-de-Haute-Provence</option><option class="1">05 Hautes-Alpes</option><option class="1">06 Alpes-Maritimes</option><option class="1">07 Ardeche</option><option class="1">08 Ardennes</option><option class="1">09 Ariege</option><option class="1">10 Aube</option><option class="1">11 Aude</option><option class="1">12 Aveyron</option><option class="1">13 Bouches-du-Rhône</option><option class="1">14 Calvados</option><option class="1">15 Cantal</option><option class="1">16 Charente</option><option class="1">17 Charente-Maritime</option><option class="1">18 Cher</option><option class="1">19 Corrèze</option><option class="1">2A Corse-du-Sud</option><option class="1">2B Haute-Corse</option><option class="1">21 Côte-d Or</option><option class="1">22 Côtes-d Armor</option><option class="1">23 Creuse</option><option class="1">24 Dordogne</option><option class="1">25 Doubs</option><option class="1">26 Drôme</option><option class="1">27 Eure</option><option class="1">28 Eure-et-Loir</option><option class="1">29 Finistere</option><option class="1">30 Gard</option><option class="1">31 Haute-Garonne</option><option class="1">32 Gers</option><option class="1">33 Gironde</option><option class="1">34 Herault</option><option class="1">35 Ille-et-Vilaine</option><option class="1">36 Indre</option><option class="1">37 Indre-et-Loire</option><option class="1">38 Isere</option><option class="1">39 Jura</option><option class="1">40 Landes</option><option class="1">41 Loir-et-Cher</option><option class="1">42 Loire</option><option class="1">43 Haute-Loire</option><option class="1">44 Loire-Atlantique</option><option class="1">45 Loiret</option><option class="1">46 Lot</option><option class="1">47 Lot-et-Garonne</option><option class="1">48 Lozere</option><option class="1">49 Maine-et-Loire</option><option class="1">50 Manche</option><option class="1">51 Marne</option><option class="1">52 Haute-Marne</option><option class="1">53 Mayenne</option><option class="1">54 Meurthe-et-Moselle</option><option class="1">55 Meuse</option><option class="1">56 Morbihan</option><option class="1">57 Moselle</option><option class="1">58 Nievre</option><option class="1">59 Nord</option><option class="1">60 Oise</option><option class="1">61 Orne</option><option class="1">62 Pas-de-Calais</option><option class="1">63 Puy-de-Dôme </option><option class="1">64 Pyrenees-Atlantiques</option><option class="1">65 Hautes-Pyrenees</option><option class="1">66 Pyrenees-Orientales</option><option class="1">67 Bas-Rhin</option><option class="1">68 Haut-Rhin</option><option class="1">69 Rhene</option><option class="1">70 Haute-Saene</option><option class="1">71 Saene-et-Loire</option><option class="1">72 Sarthe</option><option class="1">73 Savoie</option><option class="1">74 Haute-Savoie</option><option class="1">75 Paris</option><option class="1">76 Seine-Maritime</option><option class="1">77 Seine-et-Marne</option><option class="1">78 Yvelines</option><option class="1">79 Deux-Sevres</option><option class="1">80 Somme</option><option class="1">81 Tarn</option><option class="1">82 Tarn-et-Garonne</option><option class="1">83 Var</option><option class="1">84 Vaucluse</option><option class="1">85 Vendee</option><option class="1">86 Vienne</option><option class="1">87 Haute-Vienne</option><option class="1">88 Vosges</option><option class="1">89 Yonne</option><option class="1">90 Territoire de Belfort</option><option class="1">91 Essonne</option><option class="1">92 Hauts-de-Seine</option><option class="1">93 Seine-Saint-Denis</option><option class="1">94 Val-de-Marne</option><option class="1">95 Val-d Oise</option><option class="1">971 la Guadeloupe</option><option class="1">972 la Martinique</option><option class="1">973 la Guyane</option><option class="1">974 la Réunion</option><option class="1">975 Saint-Pierre-et-Miquelon</option><option class="1">976 Mayotte </option><option class="1">977 Saint-Barthélemy </option><option class="1">97150 Saint-Martin</option><option class="1">Canada</option><option class="1">Suisse</option><option class="1">Belgique</option><option class="1">Luxembourg</option><option class="1">Etats-Unis</option><option class="1">Afrique</option><option class="1">Amérique</option><option class="1">Europe</option><option class="1">Asie</option><option class="1">Océanie</option>
+                </select>
+              </div>
+            </div>
+            <div class="row">
+              <div class="seven offset-by-five columns"><button class="button radius"><i class="icon-ok"></i> &nbsp;CONNEXION</button></div>
+            </div>
+            <div class="row">
+              <div class="twelve columns">
+                <p class="text-center" style="margin:10px 0 0 0;color:#dff6ff;font-size:13px;line-height:1.35;">
+                  En vous connectant, vous acceptez les <a href="cgu/" target="_blank" style="color:#ffffff;text-decoration:none;font-weight:bold;">CGU</a> >
+                </p>
+              </div>
+            </div>
+          </form> 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</header>
+
+<!-- En ligne -->
+<section>
+  <div id="call-to-actions" class="silver-bg">
+    <div class="row map-bg">
+    
+      <div class="twelve columns">
+      <h1 class="section-title">Chat gratuit et rencontre 100% gratuit</h1>
+      
+        <p class="lead">Chaque jour <strong>des milliers</strong> de visiteurs se retrouvent sur le tchat de Caramail - <strong>Rejoignez-nous dés aujourd.hui !</strong></p>
+      </div>
+	  
+<?php
+$useragent=$_SERVER['HTTP_USER_AGENT'];
+if(preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i',$useragent)||preg_match('/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i',substr($useragent,0,4))) {
+echo "
+
+";
+} else {
+$femme = file_get_contents("count-femme.txt");
+$homme = file_get_contents("count-homme.txt");
+$inconnu = file_get_contents("count-inconnu.txt");
+echo "
+        <div class='status three columns mobile-one'>
+          <div class='icon' data-animation='pulse'>
+            <img src='assets/images/icons/steps/status_01.png' width='213' height='149' alt=''>
+          </div>
+          <ul class='block-grid'>
+            <li class='title'>100%</li>
+            <li class='subtitle'>Gratuit sans inscription</li>
+          </ul>
+        </div>
+        
+        <div class='status three columns mobile-one'>
+          <div class='icon' data-animation='pulse'>
+            <img src='assets/images/icons/steps/status_02.png' width='213' height='149' alt=''>
+          </div>
+          <ul class='block-grid'>
+            <li class='title'>". $users ."</li>
+            <li class='subtitle'>Personnes en ligne</li>
+          </ul>
+        </div>
+        
+        <div class='status three columns mobile-one'>
+          <div class='icon' data-animation='pulse'>
+            <img src='assets/images/icons/steps/status_03.png' width='213' height='149' alt=''>
+          </div>
+          <ul class='block-grid'>
+            <li class='title'>" . $femme . "</li>
+            <li class='subtitle'>Femmes en ligne</li>
+          </ul>
+        </div>
+        
+        <div class='status three columns mobile-one'>
+          <div class='icon' data-animation='pulse'>
+            <img src='assets/images/icons/steps/status_04.png' width='213' height='149' alt=''>
+          </div>
+          <ul class='block-grid'>
+            <li class='title'>" . $homme . "</li>
+            <li class='subtitle'>Hommes en ligne</li>
+          </ul>
+        </div>
+     <!-- <p class='lead'>(il y a également <strong>" . $inconnu . "</strong> personnes connectés en anonyme)</p> -->
+";
+}
+?>
+    </div>
+  </div>
+</section>
+
+
+<!-- Texte -->
+<section>
+  <div id="feature-text" class="text-center">
+<br>
+    <div class="row">
+      <div class="twelve columns">
+        <h2><span class="no-bg">Pourquoi choisir <span class="pink-text">Caramail chat </span><span class="no-bg">pour vos rencontres ?</span></h2>
+        <p class="lead"><strong>Chat Caramail</strong> vous propose un <strong>site de rencontres gratuit</strong> avec un <strong>Tchat webcam</strong>, <br>vous n'avez pas besoin de vous inscrire pour y accéder.</p>
+      </div>
+      
+      <ul class="no-bullet">
+        <li class="four columns">
+          <div class="circle">
+            <a class="imagelink">
+              <span class="overlay"></span>
+              <span class="read"><i class="icon-heart"></i></span>
+              <img src="assets/images/small_thumb_01.png" alt="">
+            </a>
+          </div>
+          <h2><font color="#990099">100% Gratuit</font></h2>
+          <h3>Avec ses <strong>1 000 visiteurs</strong> par jours, <br><strong>Caramail</strong> est le plus reconnu des <strong>chat gratuit</strong>.</h3>
+        </li>
+        
+        <li class="four columns">
+          <div class="circle">
+            <a class="imagelink">
+              <span class="overlay"></span>
+              <span class="read"><i class="icon-heart"></i></span>
+              <img src="assets/images/small_thumb_02.png" alt="">
+            </a>
+          </div>
+          <h2><font color="#004d00">Chat Webcam</font></h2>
+          <h3>Le <strong>chat webcam</strong> permet de faire des <strong>rencontres en direct</strong> et voir à qui vous parlez.</h3>
+        </li>
+        
+        <li class="four columns">
+          <div class="circle">
+            <a class="imagelink">
+              <span class="overlay"></span>
+              <span class="read"><i class="icon-heart"></i></span>
+              <img src="assets/images/small_thumb_03.png" alt="">
+            </a>
+          </div>
+          <h2><font color="#993d00">Rencontres faciles</font></h2>
+          <h3>Faites des <strong>rencontres près de chez vous</strong> avec des <strong>hommes</strong> et des <strong>femmes célibataires.</strong></h3>
+        </li>
+      </ul>
+    </div>
+	<br>
+	        <div class="content-text"><br>
+<?php
+$useragent=$_SERVER['HTTP_USER_AGENT'];
+if(preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i',$useragent)||preg_match('/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i',substr($useragent,0,4))) {
+echo "
+<strong>Chat gratuit sans inscription</strong> : L'Expérience Ultime du <strong>Tchat Gratuit</strong> sans inscription<br><br>
+
+Bienvenue dans l'univers captivant d’un chat en ligne gratuit, inspiré de l'époque de Caramail.
+Si vous êtes à la recherche d'une expérience de t'chat gratuit, sans besoin d'inscription, vous êtes au bon endroit.
+Plongeons dans les méandres de Chat Caramail, où l'échange, la convivialité, et le \"Chat Gratuit\" sont élevés au rang d'art.<br><br>
+
+<strong>Introduction à Chat Caramail</strong><br><br>
+Caramail Chat se distingue par sa philosophie axée sur la simplicité et l'inclusivité. Le mot d'ordre ici est la facilité
+d'utilisation, garantissant à chacun, où qu'il soit dans le monde, un accès immédiat à des discussions riches et variées.
+L'inscription n'est pas seulement facultative, elle est inexistante, offrant ainsi une liberté totale aux utilisateurs.<br><br>
+
+<strong>La Magie du \" Chat Gratuit \"</strong><br><br>
+Au cœur de l'expérience Caramail Chat réside la notion de \"Chat Gratuit\". Cette caractéristique, mise en
+avant, représente bien plus qu'une simple fonctionnalité. C'est la promesse d'une plateforme où la communication
+est libre, dénuée de barrières financières ou administratives. Que vous soyez un amateur occasionnel de discussions
+en ligne ou un passionné chevronné, le \"Chat Gratuit\" de Caramail offre une toile d'échange illimité.<br><br>
+
+<strong>Diversité et Inclusion : La Marque de Fabrique de Caramail Chat</strong><br><br>
+Caramail Chat a choisi de célébrer la diversité sous toutes ses facettes. Que vous soyez là pour
+partager des idées, discuter de passions communes, ou même trouver de nouveaux amis, la plateforme
+accueille chaleureusement tous les individus, quelles que soient leurs orientations, identités ou origines.
+L'inclusion est au cœur de l'ADN de Caramail Chat, garantissant ainsi des conversations enrichissantes et variées.<br><br>
+
+<strong>L'Étape Virtuelle Vers des Relations Réelles</strong><br><br>
+Le \"Chat Gratuit\" de Caramail va au-delà du simple échange de messages. Il s'agit d'une véritable étape virtuelle vers 
+des relations réelles. Si au début tout semble virtuel, l'authenticité des échanges peut rapidement transcender l'écran. Ce Chat 
+propose un espace où la fiction peut devenir réalité, où les liens tissés peuvent se matérialiser dans le monde physique.<br><br>
+
+<strong>Une Nouvelle Ère de Liberté Conversationnelle</strong><br><br>
+À une époque où les applications de rencontres éphémères abondent sur les mobiles, Caramail Chat se
+présente comme une révolution anti-application. Ici, pas de téléchargement fastidieux, pas d'interface
+complexe. Vous vous connectez et plongez directement dans une mer de conversations, libres de toute contrainte.<br><br>
+
+<strong>Trouver l'Amour, l'Amitié, ou Juste une Conversation Agréable</strong><br><br>
+Que vous soyez célibataire à la recherche de votre âme sœur, ou simplement à la quête de nouvelles amitiés, Ce tchat gratuit
+est l'endroit idéal. Les discussions peuvent évoluer vers des amitiés inattendues, des rencontres enrichissantes, ou même vers
+l'amour véritable. Les utilisateurs ont la liberté de définir leurs propres expériences, guidés par le mantra du \"Chat Gratuit\".<br><br>
+
+<strong>Un Outil Pour des Rencontres Authentiques</strong><br><br>
+Caramail Chat se démarque en tant qu'outil sérieux dédié aux rencontres authentiques. En plus de favoriser
+des échanges libres, la plateforme est totalement gratuite et sans limites. Caramail Chat incarne ainsi la
+fusion parfaite entre la simplicité d'utilisation, la gratuité, et la quête de connexions réelles.<br><br>
+
+<strong>Embarquez pour l'Aventure Caramail Chat</strong><br><br>
+En somme, Caramail Chat est bien plus qu'un simple service de chat en ligne. C'est une expérience immersive
+où le \"Chat Gratuit\" devient une invitation à l'échange sans entraves. L'inclusivité, la diversité, et la
+promesse d'authentiques rencontres définissent l'essence même de cette plateforme. Alors, que vous soyez un
+explorateur novice ou un habitué des conversations en ligne, embarquez pour l'aventure du chat gratuit et
+découvrez un monde où le \"Chat Gratuit\" ouvre les portes d'une communauté virtuelle sans limites.<br><br>
+";
+} else {
+
+echo "
+<strong>Chat Caramail</strong> : L’Expérience Ultime du <strong>Chat Gratuit</strong> sans inscription<br><br>
+
+Bienvenue dans l'univers captivant de Chat Caramail, une plateforme innovante qui redéfinit les normes du chat en ligne. <br>
+Si vous êtes à la recherche d'une expérience de t'chat gratuit, sans besoin d'inscription, vous êtes au bon endroit. <br>
+Plongeons dans les méandres de Chat Caramail, où l'échange, la convivialité, et le \"Chat Gratuit\" sont élevés au rang d'art.<br><br>
+
+<strong>Introduction à Chat Caramail</strong><br><br>
+Caramail Chat se distingue par sa philosophie axée sur la simplicité et l'inclusivité. Le mot d'ordre ici est la facilité <br>
+d'utilisation, garantissant à chacun, où qu'il soit dans le monde, un accès immédiat à des discussions riches et variées. <br>
+L'inscription n'est pas seulement facultative, elle est inexistante, offrant ainsi une liberté totale aux utilisateurs.<br><br>
+
+<strong>La Magie du \" Chat Gratuit \"</strong><br><br>
+Au cœur de l'expérience Caramail Chat réside la notion de \"Chat Gratuit\". Cette caractéristique, mise en <br>
+avant, représente bien plus qu'une simple fonctionnalité. C'est la promesse d'une plateforme où la communication <br>
+est libre, dénuée de barrières financières ou administratives. Que vous soyez un amateur occasionnel de discussions <br>
+en ligne ou un passionné chevronné, le \"Chat Gratuit\" de Caramail offre une toile d'échange illimité.<br><br>
+
+<strong>Diversité et Inclusion : La Marque de Fabrique de Caramail Chat</strong><br><br>
+Caramail Chat a choisi de célébrer la diversité sous toutes ses facettes. Que vous soyez là pour <br>
+partager des idées, discuter de passions communes, ou même trouver de nouveaux amis, la plateforme <br>
+accueille chaleureusement tous les individus, quelles que soient leurs orientations, identités ou origines. <br>
+L'inclusion est au cœur de l'ADN de Caramail Chat, garantissant ainsi des conversations enrichissantes et variées.<br><br>
+
+<strong>L'Étape Virtuelle Vers des Relations Réelles</strong><br><br>
+Le \"Chat Gratuit\" de Caramail va au-delà du simple échange de messages. Il s'agit d'une véritable étape virtuelle vers des <br>
+relations réelles. Si au début tout semble virtuel, l'authenticité des échanges peut rapidement transcender l'écran. Caramail <br>
+Chat propose un espace où la fiction peut devenir réalité, où les liens tissés peuvent se matérialiser dans le monde physique.<br><br>
+
+<strong>Une Nouvelle Ère de Liberté Conversationnelle</strong><br><br>
+À une époque où les applications de rencontres éphémères abondent sur les mobiles, Caramail Chat se <br>
+présente comme une révolution anti-application. Ici, pas de téléchargement fastidieux, pas d'interface <br>
+complexe. Vous vous connectez et plongez directement dans une mer de conversations, libres de toute contrainte.<br><br>
+
+<strong>Trouver l'Amour, l'Amitié, ou Juste une Conversation Agréable</strong><br><br>
+Que vous soyez célibataire à la recherche de votre âme sœur, ou simplement à la quête de nouvelles amitiés, Caramail Chat <br>
+est l'endroit idéal. Les discussions peuvent évoluer vers des amitiés inattendues, des rencontres enrichissantes, ou même vers <br>
+l'amour véritable. Les utilisateurs ont la liberté de définir leurs propres expériences, guidés par le mantra du \"Chat Gratuit\".<br><br>
+
+<strong>Un Outil Sérieux Pour des Rencontres Authentiques</strong><br><br>
+Caramail Chat se démarque en tant qu'outil sérieux dédié aux rencontres authentiques. En plus de favoriser <br>
+des échanges libres, la plateforme est totalement gratuite et sans limites. Caramail Chat incarne ainsi la <br>
+fusion parfaite entre la simplicité d'utilisation, la gratuité, et la quête de connexions réelles.<br><br>
+
+<strong>Embarquez pour l'Aventure Caramail Chat</strong><br><br>
+En somme, Caramail Chat est bien plus qu'un simple service de chat en ligne. C'est une expérience immersive <br>
+où le \"Chat Gratuit\" devient une invitation à l'échange sans entraves. L'inclusivité, la diversité, et la <br>
+promesse d'authentiques rencontres définissent l'essence même de cette plateforme. Alors, que vous soyez un <br>
+explorateur novice ou un habitué des conversations en ligne, embarquez pour l'aventure Caramail Chat et <br>
+découvrez un monde où le \"Chat Gratuit\" ouvre les portes d'une communauté virtuelle sans limites.<br><br>
+";
+}
+?>
+			</div>
+			<img src="assets/images/logo_black.png">
+  </div>
+
+</p>
+<br><br>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div id="footer">
+    <div class="row">
+    
+    	<!-- About-->
+      <div class="three columns section">
+        <h5><i class="icon-heart"></i> Qui sommes-nous ?</h5>
+        <p>Chat Caramail, c’est un chat gratuit (tchat gratuit), un site de rencontre gratuit, en bref, c’est là où vous pouvez faire de belles rencontres gratuitement, en France(dom-tom) en Belgique, en Suisse, en Algérie, au Maroc, au Canada, et partout dans le monde ! </p>
+        <p><i class="icon-envelope"></i> &nbsp;<a href="mailto:contact@chat-caramail.fr">&#99;&#111;&#110;&#116;&#97;&#99;&#116;@&#99;&#104;&#97;&#116;-&#99;&#97;&#114;&#97;&#109;&#97;&#105;&#108;.&#102;&#114;</span></a></p>
+        <ul class="no-bullet">
+		<li><i class="icon-angle-right"></i> <a href="mentions/">Mentions légales</a></li>
+		<li><i class="icon-angle-right"></i> <a href="cgu/">Conditions d'utilisation</a></li>
+		<li><i class="icon-angle-right"></i> <a href="confidentialite/">Politique de confidentialité</a></li> 
+       </ul>
+	  </div>
+      
+      <div class="three columns section">
+        <h5>Par région</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="rencontre/ile-de-france/">Île-de-France</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/rhone-alpes/">Rhône-Alpes</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/provence-alpes-cote-d-azur/">Provence-Alpes-Côte d'Azur</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/nord-pas-de-calais/">Nord-Pas-de-Calais</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/pays-de-la-loire/">Pays de la Loire</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/aquitaine/">Aquitaine</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/bretagne/">Bretagne</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/midi-pyrenees/">Midi-Pyrénées</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/languedoc-roussillon/">Languedoc-Roussillon</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/centre/">Centre</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/lorraine/">Lorraine</a></li></a></li>    
+		  <li><i class="icon-angle-right"></i> <a href="rencontre/picardie/">Picardie</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/alsace/">Alsace</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/haute-normandie/">Haute-Normandie</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/poitou-charentes/">Poitou-Charentes</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/bourgogne/">Bourgogne</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/basse-normandie/">Basse-Normandie</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/champagne-ardenne/">Champagne-Ardenne</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/auvergne/">Auvergne</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/franche-comte/">Franche-Comté</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/limousin/">Limousin</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/corse/">Corse</a></li>
+        </ul>
+      </div>
+      
+      <div class="three columns section">
+        <h5>Par Département</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="rencontre/nord/">Nord</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/paris/">Paris</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/bouches-du-rhone/">Bouches-du-Rhône</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/rhone/">Rhône</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/hauts-de-seine/">Hauts-de-Seine</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/seine-saint-denis/">Seine-Saint-Denis</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/pas-de-calais/">Pas-de-Calais</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/gironde/">Gironde</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/yvelines/">Yvelines</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/seine-et-marne/">Seine-et-Marne</a></li>
+        </ul>
+		</div>
+		<div class="three columns section">
+		<h5>Par Ville</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="rencontre/paris/">Paris</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/marseille/">Marseille</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/lyon/">Lyon</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/toulouse/">Toulouse</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/nice/">Nice</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/nantes/">Nantes</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/strasbourg/">Strasbourg</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/montpellier/">Montpellier</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/bordeaux/">Bordeaux</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/lille/" class="sub-menu-link">Lille</a></li>
+        </ul>
+      </div>
+	  
+      <div class="three columns section">
+        <h5>Rencontre gratuite</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="rencontre/homme-cherche-femme/" class="sub-menu-link">Homme cherche femme</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/femme-cherche-homme/" class="sub-menu-link">Femme cherche homme</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/homme-cherche-homme/" class="sub-menu-link">Homme cherche homme</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/femme-cherche-femme/" class="sub-menu-link">Femme cherche femme</a></li>
+
+          <li><i class="icon-angle-right"></i> <a href="rencontre/amoureuse/" class="sub-menu-link">Rencontre amoureuse</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/amicale/" class="sub-menu-link">Rencontre amicale</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/virtuelle/" class="sub-menu-link">Rencontre virtuelle</a></li>
+<!--          <li><i class="icon-angle-right"></i> <a href="rencontre/coquine/" class="sub-menu-link">Rencontre coquine</a></li>
+		  <li><i class="icon-angle-right"></i> <a href="rencontre/sexy/" class="sub-menu-link">Rencontre sexy</a></li> -->
+
+          <li><i class="icon-angle-right"></i> <a href="rencontre/celibataire/" class="sub-menu-link">Rencontre célibataire</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/couple/" class="sub-menu-link">Rencontre couple</a></li>
+
+          <li><i class="icon-angle-right"></i> <a href="rencontre/homosexuels/" class="sub-menu-link">Rencontre homosexuelle</a></li>
+<!--          <li><i class="icon-angle-right"></i> <a href="rencontre/gay/" class="sub-menu-link">Rencontre gay</a></li>
+          <li><i class="icon-angle-right"></i> <a href="rencontre/lesbienne/" class="sub-menu-link">Rencontre lesbienne</a></li> -->
+		  
+        </ul>
+      </div>
+	  
+	        <!-- <div class="three columns section">
+        <h5>Partenaires</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="http://www.chaat.fr" target="_blank" class="sub-menu-link">Chaat.fr</a></li>
+        </ul>
+      </div> -->
+      
+      <div class="twelve columns">
+        <hr>
+
+		<?php 
+						$fichier_compteur = fopen('visites.txt', 'r+');
+						$vues++;
+						fseek($fichier_compteur, 0);
+						fputs($fichier_compteur, $vues);
+						fclose($fichier_compteur);
+?>
+<?php
+$useragent=$_SERVER['HTTP_USER_AGENT'];
+if(preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i',$useragent)||preg_match('/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i',substr($useragent,0,4))) {
+    echo "<p align='center'>2016 - 2026 &copy; <a href='https://chat-caramail.fr' target='_blank'>chat-caramail.fr</a> - Le service de discussion, son administration ainsi que sa modération sont assurés par un prestataire tiers indépendant. Le site agit uniquement comme interface technique d’accès à ce service et n’assure ni l’hébergement des échanges ni la modération des contenus publiés via le service de discussion. Toute référence à « Caramail » est effectuée à titre descriptif et historique. Cette marque appartient à ses titulaires respectifs. Le présent site n’est ni affilié, ni associé, ni sponsorisé, ni exploité par cette marque ou ses ayants droit, et ne constitue en aucun cas un service officiel.</p>";
+} else {
+    echo "<p align='center'>2016 - 2026 &copy; <a href='https://chat-caramail.fr' target='_blank'>chat-caramail.fr</a> - Le service de discussion, son administration ainsi que sa modération sont assurés par un prestataire tiers indépendant. Le site agit uniquement comme interface technique d’accès à ce service et n’assure ni l’hébergement des échanges ni la modération des contenus publiés via le service de discussion. Toute référence à « Caramail » est effectuée à titre descriptif et historique. Cette marque appartient à ses titulaires respectifs. Le présent site n’est ni affilié, ni associé, ni sponsorisé, ni exploité par cette marque ou ses ayants droit, et ne constitue en aucun cas un service officiel.</p>";
+}
+$visites = file_get_contents('visites.txt'); // toujours lisible en interne si besoin
+?>
+      </div>
+    </div>
+  </div>
+</footer>
+
+	<!-- jQuery -->
+  <script type="text/javascript" src="assets/scripts/jquery.js"></script>
+  <script type="text/javascript" src="assets/scripts/foundation.min.js"></script>
+  
+  <!-- Plugins -->
+  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/jquery.carouFredSel-6.2.0-packed.js"></script>
+  <script type="text/javascript" src="assets/scripts/plugins/quovolver/jquery.quovolver.js"></script>
+  <script type="text/javascript" src="assets/scripts/plugins/backgroundSize/jquery.backgroundSize.js"></script>
+  <script type="text/javascript" src="assets/scripts/app.js"></script>
+<?php
+?>
+</body>
+</html>

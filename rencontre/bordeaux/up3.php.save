@@ -1,0 +1,61 @@
+          </div>
+          <!-- Connexion form -->
+          <form action="../../chat/index.php" method="post" class="custom form-search">
+            <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Pseudo </label>
+              </div>
+              <div class="seven mobile-four columns">
+				<input name="pseudo" type="text" maxlength="30" required="required" />
+              </div>
+            </div>
+		  <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Je suis :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand" name="sexe" id="sexe">
+                  <option selected="selected" value="M">Un homme</option>
+                  <option value="F">Une femme</option>
+				  <option value="A">Anonyme</option>
+                </select>
+              </div>
+            </div>
+			<div class="row">
+              <div class="five mobile-one columns">
+                <label class="right inline">Âge :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand customDropdown" name="age" id="age">
+				  <option value="14">14 ans</option> <option value="15">15 ans</option> <option value="16">16 ans</option><option value="16" selected="selected">16 ans</option> <option value="17">17 ans</option> <option value="18">18 ans</option> <option value="19">19 ans</option> <option value="20">20 ans</option> <option value="21">21 ans</option> <option value="22">22 ans</option> <option value="23">23 ans</option> <option value="24">24 ans</option> <option value="25">25 ans</option> <option value="26">26 ans</option> <option value="27">27 ans</option> <option value="28">28 ans</option> <option value="29">29 ans</option> <option value="30">30 ans</option> <option value="31">31 ans</option> <option value="32">32 ans</option> <option value="33">33 ans</option> <option value="34">34 ans</option> <option value="35">35 ans</option> <option value="36">36 ans</option> <option value="37">37 ans</option> <option value="38">38 ans</option> <option value="39">39 ans</option> <option value="40">40 ans</option> <option value="41">41 ans</option> <option value="42">42 ans</option> <option value="43">43 ans</option> <option value="44">44 ans</option> <option value="45">45 ans</option> <option value="46">46 ans</option> <option value="47">47 ans</option> <option value="48">48 ans</option> <option value="49">49 ans</option> <option value="50">50 ans</option> <option value="51">51 ans</option> <option value="52">52 ans</option> <option value="53">53 ans</option><option value="54">54 ans</option><option value="55">55 ans</option><option value="56">56 ans</option><option value="57">57 ans</option> <option value="58">58 ans</option><option value="59">59 ans</option><option value="60">60 ans</option><option value="61">61 ans</option><option value="62">62 ans</option> <option value="63">63 ans</option> <option value="64">64 ans</option> <option value="65">65 ans</option> <option value="66">66 ans</option> <option value="67">67 ans</option> <option value="68">68 ans</option> <option value="69">69 ans</option><option value="70">70 ans</option><option value="71">71 ans</option><option value="72">72 ans</option><option value="73">73 ans</option><option value="74">74 ans</option><option value="75">75 ans</option><option value="76">76 ans</option><option value="77">77 ans</option><option value="78">78 ans</option><option value="79">79 ans</option><option value="80">80 ans</option><option value="81">81 ans</option><option value="82">82 ans</option><option value="83">83 ans</option><option value="84">84 ans</option><option value="85">85 ans</option><option value="86">86 ans</option><option value="87">87 ans</option><option value="88">88 ans</option><option value="89">89 ans</option><option value="90">90 ans</option><option value="91">91 ans</option><option value="92">92 ans</option><option value="93">93 ans</option><option value="94">94 ans</option><option value="95">95 ans</option><option value="96">96 ans</option><option value="97">97 ans</option><option value="98">98 ans</option><option value="99">99 ans</option>
+                </select>
+              </div>
+            </div>
+            <div class="row">
+              <div class="five mobile-four columns">
+                <label class="right inline">Département :</label>
+              </div>
+              <div class="seven mobile-four columns">
+                <select class="expand" name="ville" id="ville">
+                   <option class="0" value="">---</option><option class="1">01 Ain</option><option class="1">02 Aisne</option><option class="1">03 Allier</option><option class="1">04 Alpes-de-Haute-Provence</option><option class="1">05 Hautes-Alpes</option><option class="1">06 Alpes-Maritimes</option><option class="1">07 Ardeche</option><option class="1">08 Ardennes</option><option class="1">09 Ariege</option><option class="1">10 Aube</option><option class="1">11 Aude</option><option class="1">12 Aveyron</option><option class="1">13 Bouches-du-Rhône</option><option class="1">14 Calvados</option><option class="1">15 Cantal</option><option class="1">16 Charente</option><option class="1">17 Charente-Maritime</option><option class="1">18 Cher</option><option class="1">19 Corrèze</option><option class="1">2A Corse-du-Sud</option><option class="1">2B Haute-Corse</option><option class="1">21 Côte-d Or</option><option class="1">22 Côtes-d Armor</option><option class="1">23 Creuse</option><option class="1">24 Dordogne</option><option class="1">25 Doubs</option><option class="1">26 Drôme</option><option class="1">27 Eure</option><option class="1">28 Eure-et-Loir</option><option class="1">29 Finistere</option><option class="1">30 Gard</option><option class="1">31 Haute-Garonne</option><option class="1">32 Gers</option><option class="1">33 Gironde</option><option class="1">34 Herault</option><option class="1">35 Ille-et-Vilaine</option><option class="1">36 Indre</option><option class="1">37 Indre-et-Loire</option><option class="1">38 Isere</option><option class="1">39 Jura</option><option class="1">40 Landes</option><option class="1">41 Loir-et-Cher</option><option class="1">42 Loire</option><option class="1">43 Haute-Loire</option><option class="1">44 Loire-Atlantique</option><option class="1">45 Loiret</option><option class="1">46 Lot</option><option class="1">47 Lot-et-Garonne</option><option class="1">48 Lozere</option><option class="1">49 Maine-et-Loire</option><option class="1">50 Manche</option><option class="1">51 Marne</option><option class="1">52 Haute-Marne</option><option class="1">53 Mayenne</option><option class="1">54 Meurthe-et-Moselle</option><option class="1">55 Meuse</option><option class="1">56 Morbihan</option><option class="1">57 Moselle</option><option class="1">58 Nievre</option><option class="1">59 Nord</option><option class="1">60 Oise</option><option class="1">61 Orne</option><option class="1">62 Pas-de-Calais</option><option class="1">63 Puy-de-Dôme </option><option class="1">64 Pyrenees-Atlantiques</option><option class="1">65 Hautes-Pyrenees</option><option class="1">66 Pyrenees-Orientales</option><option class="1">67 Bas-Rhin</option><option class="1">68 Haut-Rhin</option><option class="1">69 Rhene</option><option class="1">70 Haute-Saene</option><option class="1">71 Saene-et-Loire</option><option class="1">72 Sarthe</option><option class="1">73 Savoie</option><option class="1">74 Haute-Savoie</option><option class="1">75 Paris</option><option class="1">76 Seine-Maritime</option><option class="1">77 Seine-et-Marne</option><option class="1">78 Yvelines</option><option class="1">79 Deux-Sevres</option><option class="1">80 Somme</option><option class="1">81 Tarn</option><option class="1">82 Tarn-et-Garonne</option><option class="1">83 Var</option><option class="1">84 Vaucluse</option><option class="1">85 Vendee</option><option class="1">86 Vienne</option><option class="1">87 Haute-Vienne</option><option class="1">88 Vosges</option><option class="1">89 Yonne</option><option class="1">90 Territoire de Belfort</option><option class="1">91 Essonne</option><option class="1">92 Hauts-de-Seine</option><option class="1">93 Seine-Saint-Denis</option><option class="1">94 Val-de-Marne</option><option class="1">95 Val-d Oise</option><option class="1">971 la Guadeloupe</option><option class="1">972 la Martinique</option><option class="1">973 la Guyane</option><option class="1">974 la Réunion</option><option class="1">975 Saint-Pierre-et-Miquelon</option><option class="1">976 Mayotte </option><option class="1">977 Saint-Barthélemy </option><option class="1">97150 Saint-Martin</option><option class="1">Canada</option><option class="1">Suisse</option><option class="1">Belgique</option><option class="1">Luxembourg</option><option class="1">Etats-Unis</option><option class="1">Afrique</option><option class="1">Amérique</option><option class="1">Europe</option><option class="1">Asie</option><option class="1">Océanie</option>
+                </select>
+              </div>
+            </div>
+            <div class="row">
+              <div class="seven offset-by-five columns"><button class="button radius"><i class="icon-ok"></i> &nbsp;CONNEXION</button></div>
+            </div>
+          </form> 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</header>
+
+<!-- En ligne Section -->
+<section>
+  <div id="call-to-actions" class="silver-bg">
+    <div class="row map-bg">
+    
+      <div class="twelve columns">

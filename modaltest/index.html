@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7316954709847555"
+       crossorigin="anonymous"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #fff;
+    }
+
+    button {
+      padding: 12px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      border: 1px solid #333;
+      border-radius: 6px;
+      background: #333;
+      color: #fff;
+    }
+
+    button:hover { background: #555; }
+
+    .overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.6);
+      justify-content: center;
+      align-items: center;
+      z-index: 100;
+    }
+
+    .overlay.active { display: flex; }
+
+    .modal {
+      position: relative;
+      width: 90vw;
+      height: 85vh;
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .modal iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    .close {
+      position: absolute;
+      top: 10px;
+      right: 14px;
+      font-size: 22px;
+      line-height: 1;
+      cursor: pointer;
+      background: rgba(255,255,255,0.8);
+      border: none;
+      border-radius: 50%;
+      width: 32px;
+      height: 32px;
+      z-index: 10;
+    }
+
+    /* Preloader */
+    .preloader {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: #fff;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      z-index: 5;
+      border-radius: 8px;
+    }
+
+    .preloader.visible { display: flex; }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #e0e0e0;
+      border-top-color: #333;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .preloader p {
+      font-size: 14px;
+      color: #555;
+      text-align: center;
+      line-height: 1.5;
+      max-width: 260px;
+    }
+
+    /* Footer */
+    .footer-notice {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(245, 245, 245, 0.95);
+      border-top: 1px solid #e0e0e0;
+      text-align: center;
+      padding: 6px 12px;
+      font-size: 11px;
+      color: #888;
+      z-index: 10;
+    }
+  </style>
+</head>
+<body>
+
+  <button id="openBtn">Ouvrir</button>
+
+  <div class="overlay" id="overlay">
+    <div class="modal">
+      <button class="close" id="closeBtn">&times;</button>
+      <div class="preloader visible" id="preloader">
+        <div class="spinner"></div>
+        <p>Connexion en cours…<br>Vous accédez à un service externe indépendant.</p>
+      </div>
+      <iframe
+        src="https://partners.chaat.fr/?nick=testation2605&age=20&sexe=M&ville=6&chatnow=1#accueil"
+        allowfullscreen
+      ></iframe>
+      <div class="footer-notice">Service de chat fourni par un tiers (chaat.fr)</div>
+    </div>
+  </div>
+
+
+  <script>
+    const overlay = document.getElementById('overlay');
+    const preloader = document.getElementById('preloader');
+    let preloaderTimer = null;
+
+    document.getElementById('openBtn').addEventListener('click', () => {
+      preloader.classList.add('visible');
+      overlay.classList.add('active');
+      preloaderTimer = setTimeout(() => preloader.classList.remove('visible'), 5000);
+    });
+
+    function closeModal() {
+      overlay.classList.remove('active');
+      clearTimeout(preloaderTimer);
+    }
+
+    document.getElementById('closeBtn').addEventListener('click', closeModal);
+    overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
+  </script>
+
+</body>
+</html>

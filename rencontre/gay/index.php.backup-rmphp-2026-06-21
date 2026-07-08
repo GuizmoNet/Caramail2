@@ -1,0 +1,27 @@
+<?php
+$url    = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+$part   = explode("/", $url);
+$lien   = $part[4];
+$second = explode("?", $lien);
+$finale = $second[0];                          // slug brut : "seine-maritime"
+
+// Slug → nom affichable : "Seine Maritime"
+$nom = ucwords(str_replace('-', ' ', $finale));
+
+// Préposition contextuelle (optionnel mais boost l'unicité du texte)
+$prep = "à " . $nom;                            // par défaut
+?>
+<?php include("up.php"); ?>
+<title>Tchat gay gratuit - Chat gay sans inscription</title>
+<?php include("up2.php"); ?>
+            <p class="lead text-resize">- <strong>Tchat Gay</strong> -<br>Rejoindre les <strong><font color="#e6e6e6"><?php echo "$users" ;?></font></strong> t'chatteurs<br><strong><font color="#e6e6e6">Rencontre gratuite</font></strong> & <strong><font color="#e6e6e6">sans inscription</font></strong></p>
+<?php include("up3.php"); ?>
+<h1 class="section-title">Tchat Gay sans inscription</h1>
+<h2 class="section-title">Rencontre Gay</h2>
+<?php include("up4.php"); ?>
+	        <br>
+<div class="content-text"><br>
+<?php include(__DIR__ . '/../../seo.php'); ?>
+
+			</div>
+<?php include("down.php"); ?>

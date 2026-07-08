@@ -1,0 +1,13 @@
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<?php
+$pseudo = $_POST['pseudo'];
+$age = $_POST['age'];
+$sexe = $_POST['sexe'];
+if($sexe == "H") { $sexe ="M"; }
+$ville = $_POST['ville'];
+$ville=ereg_replace("[^a-zA-Z]","",$ville);
+$url = "https://partners.chaat.fr/?nick=".$pseudo."&age=".$age."&sexe=".$sexe."&ville=".$ville."&channel=ActuZ,Accueil&chatnow=1";
+//echo $url;
+header('Location: '.$url.'');
+exit();
+?>

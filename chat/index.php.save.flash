@@ -1,0 +1,200 @@
+<html>
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="language" content="fr" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="CACHE-CONTROL" CONTENT="NO-CACHE">
+<title>Caramail - TChat gratuit et site de rencontre 100% gratuit</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>	
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<link href="css/chat2.css" rel="stylesheet" type="text/css" />
+<link rel="icon" type="image/png" href="favicon.ico" />
+ 
+  <style type="text/css">
+	html { height: 100%; overflow: hidden; }
+	body { height:100%;	margin:0; padding:0; position: relative; }
+ </style>
+
+</head>
+
+<body oncontextmenu="return false"> 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<center>
+<a href="#" onclick="Abus()" class="bouton"><img src="img/abus.png" alt="abus" /> Signaler un abus</a>
+<a href="#" onclick="liste()" class="bouton"><img src="img/list.png" alt="liste" /> Liste des salons</a> 
+<a href="http://tchat-irc.com:10080/register" target="_blank" class="bouton"><img src="img/inscription.png" alt="inscription" />Enregistrer son pseudo</a>
+<a href="#" onclick="GoPrivate()" class="bouton"><img src="img/v.png" width="32" height="32" alt="autoriser" />Autoriser les PV</a>
+<a href="#" onclick="StopPrivate()" class="bouton"><img src="img/x.png" alt="bloquer" /> Bloquer les PV</a>
+<a href="#" onclick="swfobject.getObjectById('lightIRC').sendCommand('/join #Aide')" class="bouton"><img src="img/aide.png" alt="aide" height="32" width="32" />Besoin d'aide ?</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="radionomy-player"></div>
+<script>(function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
+radplayer('url', '100-hit-radio');
+radplayer('type', 'mobile');
+radplayer('autoplay', '1');
+radplayer('volume', '50');
+radplayer('color1', '#000000');
+radplayer('color2', '#ffffff');
+</script>
+</center><br>
+
+<div class="radionomy-player"></div>
+<div id="lightIRC" style="height:100%; text-align:center;">
+<p><a href="http://www.adobe.com/go/getflashplayer">
+<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+</div>
+
+<script type="text/javascript">
+
+var params = {};
+
+
+params.host               = "irc.chaat.fr";
+params.accessKey = "91236-CED7I-U9EOR-K4817-0B1AC";
+params.rtmp = "wrs1.pro-fhi.net";
+params.webcam           = "true";
+params.port		  = "6697";
+params.policyPort         = 8002;
+params.rememberNickname			    = "false";
+params.nick                         = "<?php if(isset($_POST['pseudo'])) { echo $_POST['pseudo']; } ?>";
+params.realname                     = "<?php if(isset($_POST['age'])) { echo $_POST['age']; } ?> <?php if(isset($_POST['sexe'])) { echo $_POST['sexe']; } ?> <?php if(isset($_POST['ville'])) { echo $_POST['ville']; } ?>";
+params.autojoin                     = "#Accueil";
+params.password					    = "";
+params.language         		    = "fr";
+params.charset						= "utf-8";
+params.nickPrefix                   = "";
+params.nickPostfix                  = ": ";
+params.showNickPrefixes             = "true";
+params.showNickPrefixIcons 			= "true";
+params.ident	          			= "webchat";
+params.showVerboseUserInformation   = "true";
+params.styleURL        			    = "css/ligne.css";
+params.customSecurityErrorMessage 	= "Le serveur flash est en maintenance, veuillez attendre quelques secondes et rafraichir la page. Désolé pour le gêne occasionné.";
+params.quitMessage					= "Â bientôt sur chat-caramail.fr like";
+params.fontSize                     = "12";
+params.showInfoMessages			    = "true";
+params.showNewQueriesInBackground   = "true";
+params.showTimestamps               = "true";
+params.showServerWindow             = "false";
+params.showNickSelection            = "false";
+params.showListButton               = "true";
+params.showNickChangeButton         = "true";
+params.showJoinChannelButton        = "true";
+params.showPartChannelButton        = "false";
+params.showJoinPartMessages 		= "true";
+params.showRegisterChannelButton    = "false";
+params.showOptionsButton            = "true";
+params.showChannelCentralButton     = "true";
+params.showChannelHeader            = "true";
+params.channelHeader			    = "Connectés: %users% - %topic%";
+params.useUserListIcons             = "true";
+params.showSubmitButton             = "true";
+params.showEmoticonsButton          = "true";
+params.showRichTextControls         = "true";
+params.showMenuButton               = "true";
+params.showNavigation               = "true";
+params.autoReconnect				= "true";
+params.showRegisterNicknameButton   = "false";
+params.showIdentifySelection        = true; 			
+params.identifyMessage			    = "NickServ: Le pseudo est enregistré et protégé. Si c'est votre";
+params.identifyCommand              = "/msg NickServ identify %pass%";
+params.emoticonList = ":)->sourire3.png,:p->langue.png,:D->mdr2.png,;)->clinoeil.png,:(->triste.png,:'(->pleurs.png,:$->rougi.png,:s->oups.png,:@->diable.png,:o->surpris.png,(amoureux)->amoureux.png,:x->chut2.png,-_-'->transpirant.png,(ange)->ange.png,(appel)->appel.png,(slap)->slap.png,(sourire)->sourire.png,(sourire2)->sourire2.png,(stop)->stop.png,(taper)->taper.png,(tg)->tg.png,(attend)->attend.png,(attendre)->attendre.png,(baille)->baille.png,(bandit)->bandit.png,(dodo)->dodo.png,(fou)->fou.png,(fou2)->fou2.png,(fou3)->fou3.png,(hum)->hum.png,(idee)->idee.png,(insolent)->insolent.png,(wondering)->wondering.png,(vampire)->vampire.png,(fuck)->fuck.png,(mdr)->mdr.png,(vomi)->vomi.png,(fume)->fume.png,(geek)->geek.png,(oh)->oh.png,(rho)->rho.png,(rires)->rires.png,(rock)->rock.png,(rouge)->rouge.png,(saoul)->saoul.png,(sherlock)->sherlock.png,(shivering)->shivering.png,(siffle)->siffle.png,(pasla)->pasla.png,(olivier)->oliver.png,(ennuyeux)->ennuyeux.png,(enerve)->enerve.png,(ouf)->ouf.png,(ouf2)->ouf2.png,(belle)->belle.png,(musique2)->musique2.png,(bisous)->bisous.png,(blase)->blase.png,(bogoss)->bogoss.gif,(citrouille)->citrouille.png,(clap)->clap.png,(colere)->colere.png,(content)->content.png,(coucou)->coucou.png,(croise)->croise.png,(fete)->fete2.png,(fete2)->fete3.png,(fete3)->fete.png,(noel)->noel.png,(courrir)->courrir.png,(danse)->danse.png,(dinde)->dinde.png,(disco)->disco.png,(ecureil)->ecureil.png,(escargot)->escargot.png,(etoile)->etoile.png,(fantome)->fantome.png,(femme)->femme2.png,(femme2)->femme.png,(fesses)->fesses.png,(film)->film.png,(fleur)->fleur.png,(foot)->foot.png,(heure)->heure.png,(biere)->biere.png,(homme)->homme.png,(homme2)->homme2.png,(homme3)->homme3.png,(homme4)->homme4.png,(homme5)->homme5.png,(homme6)->homme6.png,(jambes)->jambes.png,(jeu)->jeu.png,(kiss)->kiss.png,(lalala)->lalala.png,(lettre)->lettre.png,(maison)->maison.png,(mouton)->mouton.png,(muscle)->muscle.png,(musique)->musique.png,(baseball)->baseball.png,(bella)->bella.png,(nice)->nice.png,(ninja)->ninja.png,(non)->non.png,(oui)->oui.png,(parapluie)->parapluie.png,(penguin)->penguin.png,(photo)->photo.png,(piscine)->piscine.png,(piscine2)->piscine2.png,(pizza)->pizza.png,(ordinateur)->ordinateur.png,(pluie)->pluie.png,(poke)->poke.png,(soleil)->soleil.png,(stop2)->stop2.png,(telephone)->telephone.png,(pou)->pou.png,(praying)->praying.png,(rainbow)->rainbow.png,(renne)->renne.png,(accord)->accord.png,(cocktail)->cocktail.png,<3->coeur.png,(coeur2)->coeur2.png,(santamooning)->santamooning.png,(sapin)->sapin.png,(shopping)->shopping.png,(singe)->singe.png,(singenoel)->singenoel.png,(skipping)->skipping.png,(skull)->skull.png,(toilette)->toilette.png,(argent)->argent.png,(toivo)->toivo.png,(trefle)->trefle.png,(vacance)->vacance.png,(gateau)->gateau.png,(velo)->velo.png,(victoire)->victoire.png,(bombe)->bombe.png,(caca)->caca.png,(cadeau)->cadeau.png,(cafe)->cafe.png,(calendrier)->calendrier.png,(calin)->calin.png,(champagne)->champagne.png,(chat)->chat.png,(chek)->chek.png,(chien)->chien.png,(cinema)->cinema.png,(quoi)->what.png,(anniversaire)->anniversaire.png,(gagne)->win.png,(banana)->banane09-205e7.gif,like->like.png,vip->vip.png,lol->lol.gif,(zen)->yoga.png,(zombie)->zombie.png";
+params.iconPath                     = "icons/";
+/* Position of the navigation container (where channel and query buttons appear). Valid values: left, right, top, bottom */
+params.navigationPosition           = "left";
+
+params.performContinousWhoRequests  = "true";
+params.userListCustomFormatting 	= "realname=[0][0][Bb].*:userBot,realname=[0]\\W[Bb](.*?):userBot,ident=[0-9]\\W[0-9]\\W[Bb].*:userListRobot,realname=^([0-9]{2}).([mMHh]).(.*?):userListMan,realname=^([0-9]{2}).([fFWw]).(.*?):userListWoman,mode=q:userListOwner,mode=a:userListAdmin,mode=o:userListOperator,mode=v:userListVoice,mode=h:userListHalfop";
+params.userListInformationPopupItems = "nick,realname";
+params.showUserListInformationPopup = true;
+params.loopClientCommands           = true;
+params.loopServerCommands          = true;
+
+// Code JS du menu du footer.
+/* Use this method to send a command to lightIRC with JavaScript */
+
+function discutea_strip_color(command) {
+   //fonction de remplacement des couleurs
+   command = command.replace(/[\x1F\x0F]/g, ""); //supression du souligner
+   command = command.replace(/[\002\x0F]/g, ""); //supression du gras
+   command = command.replace(/[\003\x0F]((\d{0,2},\d{0,2})|(\d{0,2}))/g, ""); //supression des codes couleurs
+   command = command.replace(/^\s{0,4}/, ""); //supression espaces parasites
+   return command;
+}
+
+function onClientCommand(command) {
+	parts = command.split(" "); //on split
+	//on detect si le premier mot contien un !
+	if ((parts[0]=='PRIVMSG')&&(parts[2].match(/^:(.*)!(.*)/g))) { 
+	//on controle que le premier mot commence pas un ! 
+	//objectif eviter de detecter un salut!
+	    if (discutea_strip_color(parts[2]).match(/^:!(.*)/g)) { 
+		    //on revien a la fonction discutea_strip_color();
+		    command =  discutea_strip_color(command);
+		} 
+	}
+  return command; //on renvoie la chaine
+}
+ 
+function sendCommand(command) {
+	swfobject.getObjectById('lightIRC').sendCommand(command);
+}
+/* This method gets called if you click on a nick in the chat area */
+function onChatAreaClick(nick) {
+	//alert("onChatAreaClick: "+nick);
+}
+/* This method gets called if you use the parameter contextMenuExternalEvent */
+function onContextMenuSelect(type, nick) {
+	alert("onContextMenuSelect: "+nick+" for type "+type);
+}
+/* This method gets called if you use the parameter loopServerCommands */
+function onServerCommand(command) {
+	return command;
+}
+window.onbeforeunload = function() {
+	swfobject.getObjectById('lightIRC').sendQuit();
+}
+/* This loop escapes % signs in parameters. You should not change it */
+for(var key in params) {
+	params[key] = params[key].toString().replace(/%/g, "%25");
+}
+function onContextMenuSelect(type,nick) {
+	window.open("http://url/chat/getid.php?nick="+nick);
+}
+params.contextMenuExternalEvent = "Voir son profil";
+function StopPrivate() { 
+swfobject.getObjectById("lightIRC").sendCommand("/mode Testation-Chaat +D");
+	swfobject.getObjectById("lightIRC").sendMessageToActiveWindow("Vous venez de bloquer accès à votre privé, vous ne recevrez donc plus de messages privés.");
+}
+function GoPrivate() { 
+	swfobject.getObjectById("lightIRC").sendCommand("/mode Testation-Chaat -D");
+	swfobject.getObjectById("lightIRC").sendMessageToActiveWindow("Vous venez de débloquer votre privé, les utilisateurs ont maintenant la possibilité de vous joindre.");
+}
+function IndispO() { 
+	swfobject.getObjectById("lightIRC").sendMessageToActiveWindow("Fonctionnalité indisponible pour le moment.");
+}
+function liste() { 
+	swfobject.getObjectById("lightIRC").sendCommand("/list");
+	swfobject.getObjectById("lightIRC").sendMessageToActiveWindow("Ouverture de la liste des salons du t'chat.");
+}
+function Abus() {
+	var abus_cible = prompt("Synthaxe: Mettez le pseudo suivit de la raison de la plainte","");
+ 	swfobject.getObjectById("lightIRC").sendCommand("/plainte "+abus_cible);
+}
+
+swfobject.embedSWF("lightIRC.swf", "lightIRC", "100%", "85%", "10.0.0", "expressInstall.swf", params, {wmode:"transparent"});
+</script>
+<center>
+<div class="fb-like" data-href="https://www.facebook.com/Caramail-1672046896455269/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+</center>
+</body>
+</html>

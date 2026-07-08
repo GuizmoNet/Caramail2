@@ -1,0 +1,127 @@
+html { height: 80%; overflow: auto;}
+
+body { 
+background-image:url('../img/backgrounda.png');
+height:90%; 
+padding:0; 
+}
+
+.bouton {
+box-shadow:inset 0px 0px 0px 0px #000000;
+background-color:#474747;
+border-radius:36px;
+border:1px solid #000000;
+color:#ffffff;
+font-family:tahoma;
+font-size:14px;
+padding:4px 14px;
+text-decoration:none;
+text-shadow:1px 1px 0px 1px #474747;
+}
+	
+.bouton:hover{
+background-color:#6B6B6B;
+-webkit-transition-property: background-color;
+-webkit-transition-duration: 0.3s;
+-moz-transition-property: background-color;
+-moz-transition-duration: 0.3s;
+transition-property: background-color;
+transition-duration: 0.3s;
+}		
+.bouton img { border:none; }
+
+
+#header
+{ height:18.5%; }
+
+#logo
+{ 
+display:inline-block;
+vertical-align:middle;
+padding:0px 0px 0px 1%;
+margin-top:-8.5%;
+}
+
+#info
+{ 
+margin-top:-50px;
+}
+
+
+#global{
+    width:288px;
+    height:100px;
+    position:relative;
+ }
+#global div{
+    width:100px;
+    height:100px;
+    position:absolute;
+}
+
+#global #bloc1{
+    top:20%;
+    left:22px;
+}
+
+#global #bloc2{
+    top:1%;
+    left:24px;
+}
+
+#global #bloc3{
+    top:77%;
+    left:22px;
+}
+a {
+	color: #fff;
+}
+/* FIN PROPRIETES DE BASE */
+
+
+
+
+.connexionZone{
+	
+	margin-top: 40px;
+	padding: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	line-height: 10px;
+}
+
+input[type=text], input[type=password]{
+	border: 2px solid #394358;
+	#height: 40px;
+	line-height: 20px;
+	padding: 5px;
+	width: 300px;
+	border-radius: 3px;
+	display: block;
+	font-size:20px;
+}
+
+select{
+	border: 2px solid #394358;
+	#height: 50px;
+	line-height: 20px;
+	padding: 5px;
+	width: 316px;
+	border-radius: 3px;
+	display: block;
+	font-size:15px;
+}
+
+input[type=submit].submit{
+box-shadow:inset 0px 1px 0px 0px #f0f7fa;
+background-color:#00BFFF;
+border-radius:36px;
+border:1px solid #057fd0;
+color:#ffffff;
+font-family:arial;
+font-size:20px;
+font-weight:bold;
+padding:5px 15px;
+text-decoration:none;
+text-shadow:0px 1px 0px #5b6178;
+}

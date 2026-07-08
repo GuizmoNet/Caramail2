@@ -1,0 +1,24 @@
+/*
+Title:   Custom Css File
+Author:  http://themeforest.net/user/SeventhQueen/portfolio?ref=SeventhQueen
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+I WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.query_rule {color:#000;}
+.reverse { unicode-bidi:bidi-override; direction:rtl; }
+
+.form-search select,
+.form-search .custom.dropdown {
+    height: 43px;
+    margin-bottom: 9px;
+    margin-top: 2px;
+    box-sizing: border-box;
+}
+
+/* min-height seulement en mobile, là où le décalage existe */
+@media only screen and (max-width: 768px) {
+    .form-search {
+        min-height: 396px;
+        box-sizing: border-box;
+    }
+}

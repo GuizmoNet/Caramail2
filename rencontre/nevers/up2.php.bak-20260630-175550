@@ -1,0 +1,387 @@
+  <meta name="keywords" content="chat, chat gratuit, chat webcam, chat rencontre, tchat, tchatche, rencontre, rencontre gratuit, chat cam, tchat cam, chat en ligne, site de tchat, site de rencontre" />
+  <meta name="description" content="Tchat gratuit Nevers - Rencontre et chat sans inscription. Discutez en direct et faites des rencontres gratuitement.">
+  <meta name="robots" content="index, follow">
+  <meta charset="utf-8">
+  <meta name="rating" content="general">
+  <meta name="author" content="chat-caramail.fr"/>
+  <meta http-equiv="expires" content="0"/>
+  <meta http-equiv="content-language" content="fr"/>
+  <meta name="abstract" content="Tchat gratuit et site de rencontre 100% gratuit">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:site_name" content="chat-caramail.fr"/>
+  <meta property="og:title" content="Tchat gratuit Nevers - Rencontre sans inscription" />
+  <meta property="og:url" content="https://chat-caramail.fr/rencontre/nevers/"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Chat gratuit et site de rencontre gratuit. Chat webcam, faites des rencontres facilement et gratuitement."/>
+  <meta property="og:image" content='https://chat-caramail.fr/assets/images/fb.png'/>
+  <?php $url = "https://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; $url = str_replace('/index.php', '', $url); echo '<link rel="canonical" href="' . $url . '">';  ?> 
+  <link rel="alternate" href="https://chat-caramail.fr" hreflang="fr"/>
+  <link rel="stylesheet" href="../../assets/styles/foundation.min.css">
+  <link rel="stylesheet" href="../../assets/styles/font-awesome.min.css">
+  <link rel="stylesheet" href="../../assets/styles/prettyPhoto.css">
+  <link rel="stylesheet" href="../../assets/styles/app.css">
+  <link rel="stylesheet" href="../../assets/styles/updates.css">
+  <link rel="stylesheet" href="../../assets/styles/custom.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic&display=swap' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Yesteryear&display=swap' rel='stylesheet' type='text/css'>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="../../assets/styles/font-awesome-ie7.min.css">
+  <script src="../../assets/scripts/ie6/warning.js"></script>
+  <script>window.onload=function(){e("../../assets/scripts/ie6/")}</script>
+  <![endif]-->
+  <link rel="shortcut icon" href="../../assets/images/icons/favicon.ico">
+  <script type="text/javascript" src="../../assets/scripts/modernizr.foundation.js"></script> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82049970-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</script>
+</head>
+<body>
+<!-- Page -->
+<div class="page boxed-style">
+<!-- Header -->
+<header>
+<div class="header-bg">
+<!-- Social network
+<div class="top-links">
+	<div class="row">
+    <ul class=" block-grid">
+      <li class="nine columns"><a href="#"></a></li>
+      <li class="three columns hide-for-small">
+         Suivez-nous : &nbsp;
+		<a href="#" class="has-tip tip-bottom" data-width="210" title="Suivez-nous sur Twitter"><i class="icon-twitter"></i></a>&nbsp;&nbsp;&nbsp;
+        <a href="#" class="has-tip tip-bottom" data-width="210" title="Suivez-nous sur Facebook"><i class="icon-facebook"></i></a>&nbsp;&nbsp;&nbsp;
+        <a href="#" class="has-tip tip-bottom" data-width="210" title="Suivez-nous sur Google+"><i class="icon-google-plus"></i></a>&nbsp;&nbsp;&nbsp;
+      </li>
+    </ul>
+  </div>
+</div>
+-->
+<div id="header">
+	<div class="row">
+    <!-- Main -->
+    <div class="five columns push-four">
+    	<div class="space-b-20 hide-for-small">&nbsp;</div>
+      <nav class="top-bar">
+        <ul>
+          <!-- Mobile -->
+          <li class="name">
+            <span><a href="#">Menu</a></span>
+          </li>
+          <li class="toggle-topbar"><a href="#"><i class="icon-reorder"></i></a></li>
+          <!-- Mobile -->
+        </ul>
+      
+        <section><!-- Nav Section -->
+          <ul class="left">
+            <li><a href="https://chat-caramail.fr"><i class="icon-home"></i> Accueil</a></li> 
+            <li class="has-dropdown">
+              <a><i class="icon-comment"></i> T'chat en ligne</a>
+              <ul class="dropdown">
+                <li class="has-dropdown"><a class="sub-menu-link">Par région</a>
+                  <ul class="dropdown">
+                    <li><a href="../../rencontre/alsace/" class="sub-menu-link">Alsace</a></li>
+                    <li><a href="../../rencontre/aquitaine/" class="sub-menu-link">Aquitaine</a></li>
+                    <li><a href="../../rencontre/auvergne/" class="sub-menu-link">Auvergne</a></li>
+                    <li><a href="../../rencontre/basse-normandie/" class="sub-menu-link">Basse-Normandie</a></li>
+                    <li><a href="../../rencontre/bourgogne/" class="sub-menu-link">Bourgogne</a></li>
+                    <li><a href="../../rencontre/bretagne/" class="sub-menu-link">Bretagne</a></li>
+                    <li><a href="../../rencontre/centre/" class="sub-menu-link">Centre</a></li>
+                    <li><a href="../../rencontre/champagne-ardenne/" class="sub-menu-link">Champagne-Ardenne</a></li>
+                    <li><a href="../../rencontre/corse/" class="sub-menu-link">Corse</a></li>
+                    <li><a href="../../rencontre/dom-tom/" class="sub-menu-link">Dom-Tom</a></li>
+                    <li><a href="../../rencontre/franche-comte/" class="sub-menu-link">Franche-Comte</a></li>
+                    <li><a href="../../rencontre/haute-normandie/" class="sub-menu-link">Haute-Normandie</a></li>
+                    <li><a href="../../rencontre/ile-de-france/" class="sub-menu-link">Ile-de-France</a></li>
+                    <li><a href="../../rencontre/languedoc-roussillon/" class="sub-menu-link">Languedoc-Roussillon</a></li>
+                    <li><a href="../../rencontre/limousin/" class="sub-menu-link">Limousin</a></li>
+                    <li><a href="../../rencontre/lorraine/" class="sub-menu-link">Lorraine</a></li>
+                    <li><a href="../../rencontre/midi-pyrenees/" class="sub-menu-link">Midi-Pyrénées</a></li>
+                    <li><a href="../../rencontre/nord-pas-de-calais/" class="sub-menu-link">Nord-Pas-de-Calais</a></li>
+                    <li><a href="../../rencontre/pays-de-la-loire/" class="sub-menu-link">Pays de la Loire</a></li>
+                    <li><a href="../../rencontre/picardie/" class="sub-menu-link">Picardie</a></li>
+                    <li><a href="../../rencontre/poitou-charentes/" class="sub-menu-link">Poitou-Charentes</a></li>
+                    <li><a href="../../rencontre/provence-alpes-cote-d-azur/" class="sub-menu-link">Provence-Alpes-Cote d'Azur</a></li>
+                    <li><a href="../../rencontre/rhone-alpes/" class="sub-menu-link">Rhône-Alpes</a></li>
+                  </ul>
+                </li>
+				<li class="has-dropdown"><a class="sub-menu-link">Par Département</a>
+                  <ul class="dropdown">
+                    <li><a href="../../rencontre/ain/" class="sub-menu-link">Ain</a></li>
+                    <li><a href="../../rencontre/aisne/" class="sub-menu-link">Aisne</a></li>
+                    <li><a href="../../rencontre/allier/" class="sub-menu-link">Allier</a></li>
+                    <li><a href="../../rencontre/alpes-de-haute-provence/" class="sub-menu-link">Alpes-de-Haute-Provence</a></li>
+                    <li><a href="../../rencontre/alpes-maritimes/" class="sub-menu-link">Alpes-Maritimes</a></li>
+                    <li><a href="../../rencontre/ardeche/" class="sub-menu-link">Ardèche</a></li>
+                    <li><a href="../../rencontre/ardennes/" class="sub-menu-link">Ardennes</a></li>
+                    <li><a href="../../rencontre/ariege/" class="sub-menu-link">Ariège</a></li>
+                    <li><a href="../../rencontre/aube/" class="sub-menu-link">Aube</a></li>
+                    <li><a href="../../rencontre/aude/" class="sub-menu-link">Aude</a></li>
+                    <li><a href="../../rencontre/aveyron/" class="sub-menu-link">Aveyron</a></li>
+                    <li><a href="../../rencontre/bas-rhin/" class="sub-menu-link">Bas-Rhin</a></li>
+                    <li><a href="../../rencontre/bouches-du-rhone/" class="sub-menu-link">Bouches-du-Rhône</a></li>
+                    <li><a href="../../rencontre/calvados/" class="sub-menu-link">Calvados</a></li>
+                    <li><a href="../../rencontre/cantal/" class="sub-menu-link">Cantal</a></li>
+                    <li><a href="../../rencontre/charente/" class="sub-menu-link">Charente</a></li>
+                    <li><a href="../../rencontre/charente-maritime/" class="sub-menu-link">Charente-Maritime</a></li>
+                    <li><a href="../../rencontre/cher/" class="sub-menu-link">Cher</a></li>
+                    <li><a href="../../rencontre/correze/" class="sub-menu-link">Corrèze</a></li>
+                    <li><a href="../../rencontre/corse-du-sud/" class="sub-menu-link">Corse-du-Sud</a></li>
+                    <li><a href="../../rencontre/cote-d-or/" class="sub-menu-link">Côte-d'Or</a></li>
+                    <li><a href="../../rencontre/cotes-d-armor/" class="sub-menu-link">Côtes-d'Armor</a></li>
+                    <li><a href="../../rencontre/creuse/" class="sub-menu-link">Creuse</a></li>
+                    <li><a href="../../rencontre/deux-sevres/" class="sub-menu-link">Deux-Sèvres</a></li>
+                    <li><a href="../../rencontre/dordogne/" class="sub-menu-link">Dordogne</a></li>
+                    <li><a href="../../rencontre/doubs/" class="sub-menu-link">Doubs</a></li>
+                    <li><a href="../../rencontre/drome/" class="sub-menu-link">Drôme</a></li>
+                    <li><a href="../../rencontre/essonne/" class="sub-menu-link">Essonne</a></li>
+                    <li><a href="../../rencontre/eure/" class="sub-menu-link">Eure</a></li>
+                    <li><a href="../../rencontre/eure-et-loir/" class="sub-menu-link">Eure-et-Loir</a></li>
+                    <li><a href="../../rencontre/finistere/" class="sub-menu-link">Finistère</a></li>
+                    <li><a href="../../rencontre/gard/" class="sub-menu-link">Gard</a></li>
+                    <li><a href="../../rencontre/gers/" class="sub-menu-link">Gers</a></li>
+                    <li><a href="../../rencontre/gironde/" class="sub-menu-link">Gironde</a></li>
+                    <li><a href="../../rencontre/guadeloupe/" class="sub-menu-link">Guadeloupe</a></li>
+                    <li><a href="../../rencontre/guyane/" class="sub-menu-link">Guyane</a></li>
+                    <li><a href="../../rencontre/haut-rhin/" class="sub-menu-link">Haut-Rhin</a></li>
+                    <li><a href="../../rencontre/haute-corse/" class="sub-menu-link">Haute-Corse</a></li>
+                    <li><a href="../../rencontre/haute-garonne/" class="sub-menu-link">Haute-Garonne</a></li>
+                    <li><a href="../../rencontre/haute-loire/" class="sub-menu-link">Haute-Loire</a></li>
+                    <li><a href="../../rencontre/haute-marne/" class="sub-menu-link">Haute-Marne</a></li>
+                    <li><a href="../../rencontre/haute-saone/" class="sub-menu-link">Haute-Saône</a></li>
+                    <li><a href="../../rencontre/haute-savoie/" class="sub-menu-link">Haute-Savoie</a></li>
+                    <li><a href="../../rencontre/haute-vienne/" class="sub-menu-link">Haute-Vienne</a></li>
+                    <li><a href="../../rencontre/hautes-alpe/" class="sub-menu-link">Hautes-Alpes</a></li>
+                    <li><a href="../../rencontre/hautes-pyrenees/" class="sub-menu-link">Hautes-Pyrénées</a></li>
+                    <li><a href="../../rencontre/hauts-de-seine/" class="sub-menu-link">Hauts-de-Seine</a></li>
+                    <li><a href="../../rencontre/herault/" class="sub-menu-link">Hérault</a></li>
+                    <li><a href="../../rencontre/ille-et-vilaine/" class="sub-menu-link">Ille-et-Vilaine</a></li>
+                    <li><a href="../../rencontre/indre/" class="sub-menu-link">Indre</a></li>
+                    <li><a href="../../rencontre/indre-et-loire/" class="sub-menu-link">Indre-et-Loire</a></li>
+                    <li><a href="../../rencontre/isere/" class="sub-menu-link">Isère</a></li>
+                    <li><a href="../../rencontre/jura/" class="sub-menu-link">Jura</a></li>
+                    <li><a href="../../rencontre/la-reunion/" class="sub-menu-link">La Réunion</a></li>
+                    <li><a href="../../rencontre/landes/" class="sub-menu-link">Landes</a></li>
+                    <li><a href="../../rencontre/loir-et-cher/" class="sub-menu-link">Loir-et-Cher</a></li>
+                    <li><a href="../../rencontre/loire/" class="sub-menu-link">Loire</a></li>
+                    <li><a href="../../rencontre/loire-atlantique/" class="sub-menu-link">Loire-Atlantique</a></li>
+                    <li><a href="../../rencontre/loiret/" class="sub-menu-link">Loiret</a></li>
+                    <li><a href="../../rencontre/lot/" class="sub-menu-link">Lot</a></li>
+                    <li><a href="../../rencontre/lot-et-garonne/" class="sub-menu-link">Lot-et-Garonne</a></li>
+                    <li><a href="../../rencontre/lozere/" class="sub-menu-link">Lozère</a></li>
+                    <li><a href="../../rencontre/maine-et-loire/" class="sub-menu-link">Maine-et-Loire</a></li>
+                    <li><a href="../../rencontre/manche/" class="sub-menu-link">Manche</a></li>
+                    <li><a href="../../rencontre/marne/" class="sub-menu-link">Marne</a></li>
+                    <li><a href="../../rencontre/martinique/" class="sub-menu-link">Martinique</a></li>
+                    <li><a href="../../rencontre/mayenne/" class="sub-menu-link">Mayenne</a></li>
+                    <li><a href="../../rencontre/meurthe-et-moselle/" class="sub-menu-link">Meurthe-et-Moselle</a></li>
+                    <li><a href="../../rencontre/meuse/" class="sub-menu-link">Meuse</a></li>
+                    <li><a href="../../rencontre/morbihan/" class="sub-menu-link">Morbihan</a></li>
+                    <li><a href="../../rencontre/moselle/" class="sub-menu-link">Moselle</a></li>
+                    <li><a href="../../rencontre/nievre/" class="sub-menu-link">Nièvre</a></li>
+                    <li><a href="../../rencontre/nord/" class="sub-menu-link">Nord</a></li>
+                    <li><a href="../../rencontre/nouvelle-caledonie/" class="sub-menu-link">Nouvelle-Calédonie</a></li>
+                    <li><a href="../../rencontre/oise/" class="sub-menu-link">Oise</a></li>
+                    <li><a href="../../rencontre/orne/" class="sub-menu-link">Orne</a></li>
+                    <li><a href="../../rencontre/paris/" class="sub-menu-link">Paris</a></li>
+                    <li><a href="../../rencontre/pas-de-calais/" class="sub-menu-link">Pas-de-Calais</a></li>
+                    <li><a href="../../rencontre/polynesie-francaise/" class="sub-menu-link">Polynésie Française</a></li>
+                    <li><a href="../../rencontre/puy-de-dome/" class="sub-menu-link">Puy-de-Dôme</a></li>
+                    <li><a href="../../rencontre/pyrenees-atlantiques/" class="sub-menu-link">Pyrénées-Atlantiques</a></li>
+                    <li><a href="../../rencontre/pyrénées-orientales/" class="sub-menu-link">Pyrénées-Orientales</a></li>
+                    <li><a href="../../rencontre/rhone/" class="sub-menu-link">Rhône</a></li>
+                    <li><a href="../../rencontre/saone-et-loire/" class="sub-menu-link">Saône-et-Loire</a></li>
+                    <li><a href="../../rencontre/sarthe/" class="sub-menu-link">Sarthe</a></li>
+                    <li><a href="../../rencontre/savoie/" class="sub-menu-link">Savoie</a></li>
+                    <li><a href="../../rencontre/seine-et-marne/" class="sub-menu-link">Seine-et-Marne</a></li>
+                    <li><a href="../../rencontre/seine-maritime/" class="sub-menu-link">Seine-Maritime</a></li>
+                    <li><a href="../../rencontre/seine-saint-denis/" class="sub-menu-link">Seine-Saint-Denis</a></li>
+                    <li><a href="../../rencontre/somme/" class="sub-menu-link">Somme</a></li>
+                    <li><a href="../../rencontre/st-pierre-et-miquelon/" class="sub-menu-link">St-Pierre et Miquelon</a></li>
+                    <li><a href="../../rencontre/tarn/" class="sub-menu-link">Tarn</a></li>
+                    <li><a href="../../rencontre/tarn-et-garonne/" class="sub-menu-link">Tarn-et-Garonne</a></li>
+                    <li><a href="../../rencontre/territoire-de-belfort/" class="sub-menu-link">Territoire de Belfort</a></li>
+                    <li><a href="../../rencontre/val-d-oise/" class="sub-menu-link">Val-d'Oise</a></li>
+                    <li><a href="../../rencontre/val-de-marne/" class="sub-menu-link">Val-de-Marne</a></li>
+                    <li><a href="../../rencontre/var/" class="sub-menu-link">Var</a></li>
+                    <li><a href="../../rencontre/vaucluse/" class="sub-menu-link">Vaucluse</a></li>
+                    <li><a href="../../rencontre/vendee/" class="sub-menu-link">Vendée</a></li>
+                    <li><a href="../../rencontre/vienne/" class="sub-menu-link">Vienne</a></li>
+                    <li><a href="../../rencontre/vosges/" class="sub-menu-link">Vosges</a></li>
+                    <li><a href="../../rencontre/vonne/" class="sub-menu-link">Yonne</a></li>
+                    <li><a href="../../rencontre/yvelines/" class="sub-menu-link">Yvelines</a></li>
+                  </ul>
+                </li>
+				<li class="has-dropdown"><a class="sub-menu-link">Par Ville</a>
+                  <ul class="dropdown">
+					<li><a href="../../rencontre/abergement-la-ronce/" class="sub-menu-link">Abergement-la-ronce</a></li>
+					<li><a href="../../rencontre/agen/" class="sub-menu-link">Agen</a></li>
+					<li><a href="../../rencontre/ajaccio/" class="sub-menu-link">Ajaccio</a></li>
+					<li><a href="../../rencontre/albi/" class="sub-menu-link">Albi</a></li>
+					<li><a href="../../rencontre/alencon/" class="sub-menu-link">Alençon</a></li>
+					<li><a href="../../rencontre/amiens/" class="sub-menu-link">Amiens</a></li>
+					<li><a href="../../rencontre/angers/" class="sub-menu-link">Angers</a></li>
+					<li><a href="../../rencontre/angouleme/" class="sub-menu-link">Angoulême</a></li>
+					<li><a href="../../rencontre/annecy/" class="sub-menu-link">Annecy</a></li>
+					<li><a href="../../rencontre/arras/" class="sub-menu-link">Arras</a></li>
+					<li><a href="../../rencontre/auch/" class="sub-menu-link">Auch</a></li>
+					<li><a href="../../rencontre/aurillac/" class="sub-menu-link">Aurillac</a></li>
+					<li><a href="../../rencontre/auxerre/" class="sub-menu-link">Auxerre</a></li>
+					<li><a href="../../rencontre/avignon/" class="sub-menu-link">Avignon</a></li>
+					<li><a href="../../rencontre/bar-le-duc/" class="sub-menu-link">Bar-le-duc</a></li>
+					<li><a href="../../rencontre/beauvais/" class="sub-menu-link">Beauvais</a></li>
+					<li><a href="../../rencontre/belfort/" class="sub-menu-link">Belfort</a></li>
+					<li><a href="../../rencontre/besançon/" class="sub-menu-link">Besançon</a></li>
+					<li><a href="../../rencontre/blois/" class="sub-menu-link">Blois</a></li>
+					<li><a href="../../rencontre/bobigny/" class="sub-menu-link">Bobigny</a></li>
+					<li><a href="../../rencontre/bordeaux/" class="sub-menu-link">Bordeaux</a></li>
+					<li><a href="../../rencontre/bourg-en-bresse/" class="sub-menu-link">Bourg-en-bresse</a></li>
+					<li><a href="../../rencontre/bourges/" class="sub-menu-link">Bourges</a></li>
+					<li><a href="../../rencontre/caen/" class="sub-menu-link">Caen</a></li>
+					<li><a href="../../rencontre/cahors/" class="sub-menu-link">Cahors</a></li>
+					<li><a href="../../rencontre/carcassonne/" class="sub-menu-link">Carcassonne</a></li>
+					<li><a href="../../rencontre/chalons-en-champagne/" class="sub-menu-link">Châlons-en-champagne</a></li>
+					<li><a href="../../rencontre/chambery/" class="sub-menu-link">Chambéry</a></li>
+					<li><a href="../../rencontre/charleville-mezieres/" class="sub-menu-link">Charleville-mézières</a></li>
+					<li><a href="../../rencontre/chartres/" class="sub-menu-link">Chartres</a></li>
+					<li><a href="../../rencontre/chateauroux/" class="sub-menu-link">Châteauroux</a></li>
+					<li><a href="../../rencontre/clermont-ferrand/" class="sub-menu-link">Clermont-ferrand</a></li>
+					<li><a href="../../rencontre/colmar/" class="sub-menu-link">Colmar</a></li>
+					<li><a href="../../rencontre/creteil/" class="sub-menu-link">Créteil</a></li>
+					<li><a href="../../rencontre/dignes-les-bains/" class="sub-menu-link">Dignes-les-Bains</a></li>
+					<li><a href="../../rencontre/dijon/" class="sub-menu-link">Dijon</a></li>
+					<li><a href="../../rencontre/epinal/" class="sub-menu-link">Épinal</a></li>
+					<li><a href="../../rencontre/evreux/" class="sub-menu-link">Évreux</a></li>
+					<li><a href="../../rencontre/evry/" class="sub-menu-link">Évry</a></li>
+					<li><a href="../../rencontre/foix/" class="sub-menu-link">Foix</a></li>
+					<li><a href="../../rencontre/gap/" class="sub-menu-link">Gap</a></li>
+					<li><a href="../../rencontre/grenoble/" class="sub-menu-link">Grenoble</a></li>
+					<li><a href="../../rencontre/gueret/" class="sub-menu-link">Guéret</a></li>
+					<li><a href="../../rencontre/la-roche-sur-yon/" class="sub-menu-link">La Roche-sur-yon</a></li>
+					<li><a href="../../rencontre/la-rochelle/" class="sub-menu-link">La Rochelle</a></li>
+					<li><a href="../../rencontre/laon/" class="sub-menu-link">Laon</a></li>
+					<li><a href="../../rencontre/le-mans/" class="sub-menu-link">Le Mans</a></li>
+					<li><a href="../../rencontre/lille/" class="sub-menu-link">Lille</a></li>
+					<li><a href="../../rencontre/limoges/" class="sub-menu-link">Limoges</a></li>
+					<li><a href="../../rencontre/lons-le-saunier/" class="sub-menu-link">Lons-le-saunier</a></li>
+					<li><a href="../../rencontre/lyon/" class="sub-menu-link">Lyon</a></li>
+					<li><a href="../../rencontre/macon/" class="sub-menu-link">Mâcon</a></li>
+					<li><a href="../../rencontre/marseille/" class="sub-menu-link">Marseille</a></li>
+					<li><a href="../../rencontre/melun/" class="sub-menu-link">Melun</a></li>
+					<li><a href="../../rencontre/mende/" class="sub-menu-link">Mende</a></li>
+					<li><a href="../../rencontre/metz/" class="sub-menu-link">Metz</a></li>
+					<li><a href="../../rencontre/mont-de-marsan/" class="sub-menu-link">Mont-de-marsan</a></li>
+					<li><a href="../../rencontre/montauban/" class="sub-menu-link">Montauban</a></li>
+					<li><a href="../../rencontre/montpellier/" class="sub-menu-link">Montpellier</a></li>
+					<li><a href="../../rencontre/moulins/" class="sub-menu-link">Moulins</a></li>
+					<li><a href="../../rencontre/mancy/" class="sub-menu-link">Nancy</a></li>
+					<li><a href="../../rencontre/nanterre/" class="sub-menu-link">Nanterre</a></li>
+					<li><a href="../../rencontre/nantes/" class="sub-menu-link">Nantes</a></li>
+					<li><a href="../../rencontre/nevers/" class="sub-menu-link">Nevers</a></li>
+					<li><a href="../../rencontre/nice/" class="sub-menu-link">Nice</a></li>
+					<li><a href="../../rencontre/nimes/" class="sub-menu-link">Nîmes</a></li>
+					<li><a href="../../rencontre/niort/" class="sub-menu-link">Niort</a></li>
+					<li><a href="../../rencontre/orleans/" class="sub-menu-link">Orléans</a></li>
+					<li><a href="../../rencontre/pau/" class="sub-menu-link">Pau</a></li>
+					<li><a href="../../rencontre/perigueux/" class="sub-menu-link">Périgueux</a></li>
+					<li><a href="../../rencontre/perpignan/" class="sub-menu-link">Perpignan</a></li>
+					<li><a href="../../rencontre/poitiers/" class="sub-menu-link">Poitiers</a></li>
+					<li><a href="../../rencontre/pontoise/" class="sub-menu-link">Pontoise</a></li>
+					<li><a href="../../rencontre/privas/" class="sub-menu-link">Privas</a></li>
+					<li><a href="../../rencontre/quimper/" class="sub-menu-link">Quimper</a></li>
+					<li><a href="../../rencontre/rennes/" class="sub-menu-link">Rennes</a></li>
+					<li><a href="../../rencontre/rodez/" class="sub-menu-link">Rodez</a></li>
+					<li><a href="../../rencontre/rouen/" class="sub-menu-link">Rouen</a></li>
+					<li><a href="../../rencontre/saint-brieuc/" class="sub-menu-link">Saint-brieuc</a></li>
+					<li><a href="../../rencontre/saint-etienne/" class="sub-menu-link">Saint-Étienne</a></li>
+					<li><a href="../../rencontre/saint-lo/" class="sub-menu-link">Saint-lô</a></li>
+					<li><a href="../../rencontre/strasbourg/" class="sub-menu-link">Strasbourg</a></li>
+					<li><a href="../../rencontre/tarbes/" class="sub-menu-link">Tarbes</a></li>
+					<li><a href="../../rencontre/toulon/" class="sub-menu-link">Toulon</a></li>
+					<li><a href="../../rencontre/toulouse/" class="sub-menu-link">Toulouse</a></li>
+					<li><a href="../../rencontre/tours/" class="sub-menu-link">Tours</a></li>
+					<li><a href="../../rencontre/troyes/" class="sub-menu-link">Troyes</a></li>
+					<li><a href="../../rencontre/tulle/" class="sub-menu-link">Tulle</a></li>
+					<li><a href="../../rencontre/valence/" class="sub-menu-link">Valence</a></li>
+					<li><a href="../../rencontre/vannes/" class="sub-menu-link">Vannes</a></li>
+					<li><a href="../../rencontre/versailles/" class="sub-menu-link">Versailles</a></li>
+					<li><a href="../../rencontre/vesoul/" class="sub-menu-link">Vesoul</a></li>
+                  </ul>
+                </li>
+				<li class="has-dropdown"><a class="sub-menu-link">Recontre gratuite</a>
+                  <ul class="dropdown">
+					<li><a href="../../rencontre/homme-cherche-femme/" class="sub-menu-link">Homme cherche femme</a></li>
+					<li><a href="../../rencontre/femme-cherche-homme/" class="sub-menu-link">Femme cherche homme</a></li>
+					<li><a href="../../rencontre/homme-cherche-homme/" class="sub-menu-link">Homme cherche homme</a></li>
+					<li><a href="../../rencontre/femme-cherche-femme/" class="sub-menu-link">Femme cherche femme</a></li>
+					<li><a href="../../rencontre/amoureuse/" class="sub-menu-link">Rencontre amoureuse</a></li>
+					<li><a href="../../rencontre/amicale/" class="sub-menu-link">Rencontre amicale</a></li>
+					<li><a href="../../rencontre/virtuelle/" class="sub-menu-link">Rencontre virtuelle</a></li>
+					<li><a href="../../rencontre/celibataire/" class="sub-menu-link">Rencontre célibataire</a></li>
+					<li><a href="../../rencontre/couple/" class="sub-menu-link">Rencontre couple</a></li>
+					<li><a href="../../rencontre/homosexuels/" class="sub-menu-link">Rencontre homosexuelle</a></li>
+					<li><a href="../../rencontre/gay/" class="sub-menu-link">Rencontre gay</a></li>
+					<li><a href="../../rencontre/lesbienne/" class="sub-menu-link">Rencontre lesbienne</a></li>
+					<li><a href="../../rencontre/coquine/" class="sub-menu-link">Rencontre coquine</a></li>
+					<li><a href="../../rencontre/sexy/" class="sub-menu-link">Rencontre sexy</a></li>
+                  </ul>
+                </li>		
+				<li class="has-dropdown"><a class="sub-menu-link">Divers</a>
+                  <ul class="dropdown">
+				    <li><a href="../../tchat-france/" class="sub-menu-link">Tchat France</a></li>
+					<li><a href="../../tchat-canada/" class="sub-menu-link">Tchat canada</a></li>
+					<li><a href="../../tchat-quebec/" class="sub-menu-link">Tchat quebec</a></li>
+					<li><a href="../../tchat-belgique/" class="sub-menu-link">Tchat belgique</a></li>
+					<li><a href="../../tchat-suisse/" class="sub-menu-link">Tchat suisse</a></li>
+					<li><a href="../../chatteurs/" class="sub-menu-link">Chatteurs</a></li>
+					<li><a href="../../chat-gratuit/" class="sub-menu-link">Chat gratuit</a></li>
+					<li><a href="../../tchat-en-ligne/" class="sub-menu-link">Tchat en ligne</a></li>
+					<li><a href="../../tchat-gratuit/" class="sub-menu-link">Tchat gratuit</a></li>
+					<li><a href="../../tchatche-gratuit/" class="sub-menu-link">Tchatche gratuit</a></li>
+					<li><a href="../../webcam-gratuit/" class="sub-menu-link">Webcam gratuit</a></li>
+				    <li><a href="../../dial-gratuit/" class="sub-menu-link">Dial gratuit</a></li>
+					<li><a href="../../chat-ados/" class="sub-menu-link">Chat-ados</a></li>
+					<li><a href="../../site-de-rencontre/" class="sub-menu-link">Site de rencontre</a></li>
+					<li><a href="../../cam-to-cam/" class="sub-menu-link">Cam-to-Cam</a></li>
+					<li><a href="../../tchat-visio/" class="sub-menu-link">Tchat visio</a></li>
+					<li><a href="../../chat-x/" class="sub-menu-link">Chat X</a></li>
+					<li><a href="../../tchatche/" class="sub-menu-link">Tchatche</a></li>
+					<li><a href="../../tchat/" class="sub-menu-link">Tchat</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </section><!-- Nav Section -->
+      </nav>
+    </div>
+		<!-- end Main Navigation -->
+      
+    <!-- Logo -->
+    <div class="four columns pull-five">
+      <div id="logo">Chat gratuit et site de rencontre gratuit
+      	<a href="https://chat-caramail.fr/"><img src="../../assets/images/logo_black.png"></a>
+      </div>
+    </div>
+    <!-- Logo -->
+<?php
+$data_chan = file_get_contents("https://network.chaat.fr/rest/service.php/channels/%23accueil");
+$decode_chan = json_decode($data_chan, true);
+if(empty($decode_chan)) $users = "??"; else $users = $decode_chan['users'];
+?>
+		
+    <div class="twelve columns">
+      <div class="row">
+      
+      	<!-- Head Form -->
+        <div class="five columns form-wrapper">
+          <div class="form-header text-center">

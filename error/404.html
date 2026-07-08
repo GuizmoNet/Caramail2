@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>404 Not Found</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f8f9fa;
+        }
+
+        .error-container {
+            text-align: center;
+        }
+
+        .error-code {
+            font-size: 120px;
+            font-weight: bold;
+            color: #343a40;
+        }
+
+        .error-message {
+            font-size: 24px;
+            color: #495057;
+        }
+
+        .progress-container {
+            width: 50%;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="error-container">
+    <div class="error-code">404</div>
+    <div class="error-message">Page Not Found</div>
+    <div class="progress-container">
+        <div class="progress">
+            <div id="progress-bar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    // Fonction pour effectuer la redirection après un délai
+    function redirectAfterDelay() {
+        setTimeout(function() {
+            window.location.href = "https://chat-caramail.fr";  // Remplacez "/" par l'URL de redirection souhaitée
+        }, 5000);  // Délai en millisecondes (5 secondes dans cet exemple)
+    }
+
+    // Fonction pour mettre à jour la barre de défilement pendant le délai
+    function updateProgressBar() {
+        var progressBar = document.getElementById('progress-bar');
+        var progressValue = 0;
+
+        var intervalId = setInterval(function() {
+            progressValue += 1;
+            progressBar.style.width = progressValue + '%';
+            progressBar.setAttribute('aria-valuenow', progressValue);
+
+            if (progressValue >= 100) {
+                clearInterval(intervalId);
+                redirectAfterDelay();
+            }
+        }, 50);  // Intervalle en millisecondes (50 millisecondes dans cet exemple)
+    }
+
+    // Appeler la fonction pour mettre à jour la barre de défilement au chargement de la page
+    window.onload = function() {
+        updateProgressBar();
+    };
+</script>
+
+</body>
+</html>

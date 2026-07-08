@@ -1,0 +1,541 @@
+			<img src="../../assets/images/logo_black.png">
+  </div>
+
+</section>
+
+<!-- Footer Section -->
+<footer>
+  <div id="footer">
+    <div class="row">
+    
+    	<!-- About-->
+      <div class="three columns section">
+        <h5><i class="icon-heart"></i> Qui sommes-nous ?</h5>
+        <p>Chat Caramail, c’est un chat gratuit (tchat gratuit), un site de rencontre gratuit, en bref, c’est là où vous pouvez faire de belles rencontres gratuitement, en France(dom-tom) en Belgique, en Suisse, en Algérie, au Maroc, au Canada, et partout dans le monde ! </p>
+        <p><i class="icon-envelope"></i> &nbsp;<a href="mailto:contact@chat-caramail.fr">&#99;&#111;&#110;&#116;&#97;&#99;&#116;@&#99;&#104;&#97;&#116;-&#99;&#97;&#114;&#97;&#109;&#97;&#105;&#108;.&#102;&#114;</span></a></p>
+	  </div>
+      
+      <div class="three columns section">
+        <h5>Par région</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a  href="../ile-de-france/">Île-de-France</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../rhone-alpes/">Rhône-Alpes</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../provence-alpes-cote-d-azur/">Provence-Alpes-Côte d'Azur</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../nord-pas-de-calais/">Nord-Pas-de-Calais</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../pays-de-la-loire/">Pays de la Loire</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../aquitaine/">Aquitaine</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../bretagne/">Bretagne</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../midi-pyrenees/">Midi-Pyrénées</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../languedoc-roussillon/">Languedoc-Roussillon</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../centre/">Centre</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../lorraine/">Lorraine</a></li></a></li>    
+		  <li><i class="icon-angle-right"></i> <a  href="../picardie/">Picardie</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../alsace/">Alsace</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../haute-normandie/">Haute-Normandie</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../poitou-charentes/">Poitou-Charentes</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../bourgogne/">Bourgogne</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../basse-normandie/">Basse-Normandie</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../champagne-ardenne/">Champagne-Ardenne</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../auvergne/">Auvergne</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../franche-comte/">Franche-Comté</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../limousin/">Limousin</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../corse/">Corse</a></li>
+        </ul>
+      </div>
+      
+      <div class="three columns section">
+        <h5>Par Département</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a  href="../nord/">Nord</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../paris/">Paris</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../bouches-du-rhone/">Bouches-du-Rhône</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../rhone/">Rhône</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../hauts-de-seine/">Hauts-de-Seine</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../seine-saint-denis/">Seine-Saint-Denis</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../pas-de-calais/">Pas-de-Calais</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../gironde/">Gironde</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../yvelines/">Yvelines</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../seine-et-marne/">Seine-et-Marne</a></li>
+        </ul>
+		</div>
+		<div class="three columns section">
+		<h5>Par Ville</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a  href="../paris/">Paris</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../marseille/">Marseille</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../lyon/">Lyon</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../toulouse/">Toulouse</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../nice/">Nice</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../nantes/">Nantes</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../strasbourg/">Strasbourg</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../montpellier/">Montpellier</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../bordeaux/">Bordeaux</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../lille/">Lille</a></li>
+        </ul>
+      </div>
+	  
+      <div class="three columns section">
+        <h5>Rencontre gratuite</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a  href="../homme-cherche-femme/" class="sub-menu-link">Homme cherche femme</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../femme-cherche-homme/" class="sub-menu-link">Femme cherche homme</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../homme-cherche-homme/" class="sub-menu-link">Homme cherche homme</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../femme-cherche-femme/" class="sub-menu-link">Femme cherche femme</a></li>
+
+          <li><i class="icon-angle-right"></i> <a  href="../amoureuse/" class="sub-menu-link">Rencontre amoureuse</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../amicale/" class="sub-menu-link">Rencontre amicale</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../virtuelle/" class="sub-menu-link">Rencontre virtuelle</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../coquine/" class="sub-menu-link">Rencontre coquine</a></li>
+		  <li><i class="icon-angle-right"></i> <a  href="../sexy/" class="sub-menu-link">Rencontre sexy</a></li>
+
+          <li><i class="icon-angle-right"></i> <a  href="../celibataire/" class="sub-menu-link">Rencontre célibataire</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../couple/" class="sub-menu-link">Rencontre couple</a></li>
+
+          <li><i class="icon-angle-right"></i> <a  href="../homosexuels/" class="sub-menu-link">Rencontre homosexuelle</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../gay/" class="sub-menu-link">Rencontre gay</a></li>
+          <li><i class="icon-angle-right"></i> <a  href="../lesbienne/" class="sub-menu-link">Rencontre lesbienne</a></li>	  
+        </ul>
+      </div>
+
+      <!-- <div class="three columns section">
+        <h5>Partenaires</h5>
+        <ul class="no-bullet">
+          <li><i class="icon-angle-right"></i> <a href="http://www.chaat.fr" target="_blank" class="sub-menu-link">Chaat.fr</a></li>
+        </ul>
+      </div> -->
+      
+      <div class="twelve columns">
+        <hr>
+<?php
+function is_bot() {
+    $spiders = array(
+        "abot",
+        "dbot",
+        "ebot",
+        "hbot",
+        "kbot",
+        "lbot",
+        "mbot",
+        "nbot",
+        "obot",
+        "pbot",
+        "rbot",
+        "sbot",
+        "tbot",
+        "vbot",
+        "ybot",
+        "zbot",
+        "bot.",
+        "bot/",
+        "_bot",
+        ".bot",
+        "/bot",
+        "-bot",
+        ":bot",
+        "(bot",
+        "crawl",
+        "slurp",
+        "spider",
+        "seek",
+        "accoona",
+        "acoon",
+        "adressendeutschland",
+        "ah-ha.com",
+        "ahoy",
+        "altavista",
+        "ananzi",
+        "anthill",
+        "appie",
+        "arachnophilia",
+        "arale",
+        "araneo",
+        "aranha",
+        "architext",
+        "aretha",
+        "arks",
+        "asterias",
+        "atlocal",
+        "atn",
+        "atomz",
+        "augurfind",
+        "backrub",
+        "bannana_bot",
+        "baypup",
+        "bdfetch",
+        "big brother",
+        "biglotron",
+        "bjaaland",
+        "blackwidow",
+        "blaiz",
+        "blog",
+        "blo.",
+        "bloodhound",
+        "boitho",
+        "booch",
+        "bradley",
+        "butterfly",
+        "calif",
+        "cassandra",
+        "ccubee",
+        "cfetch",
+        "charlotte",
+        "churl",
+        "cienciaficcion",
+        "cmc",
+        "collective",
+        "comagent",
+        "combine",
+        "computingsite",
+        "csci",
+        "curl",
+        "cusco",
+        "daumoa",
+        "deepindex",
+        "delorie",
+        "depspid",
+        "deweb",
+        "die blinde kuh",
+        "digger",
+        "ditto",
+        "dmoz",
+        "docomo",
+        "download express",
+        "dtaagent",
+        "dwcp",
+        "ebiness",
+        "ebingbong",
+        "e-collector",
+        "ejupiter",
+        "emacs-w3 search engine",
+        "esther",
+        "evliya celebi",
+        "ezresult",
+        "falcon",
+        "felix ide",
+        "ferret",
+        "fetchrover",
+        "fido",
+        "findlinks",
+        "fireball",
+        "fish search",
+        "fouineur",
+        "funnelweb",
+        "gazz",
+        "gcreep",
+        "genieknows",
+        "getterroboplus",
+        "geturl",
+        "glx",
+        "goforit",
+        "golem",
+        "grabber",
+        "grapnel",
+        "gralon",
+        "griffon",
+        "gromit",
+        "grub",
+        "gulliver",
+        "hamahakki",
+        "harvest",
+        "havindex",
+        "helix",
+        "heritrix",
+        "hku www octopus",
+        "homerweb",
+        "htdig",
+        "html index",
+        "html_analyzer",
+        "htmlgobble",
+        "hubater",
+        "hyper-decontextualizer",
+        "ia_archiver",
+        "ibm_planetwide",
+        "ichiro",
+        "iconsurf",
+        "iltrovatore",
+        "image.kapsi.net",
+        "imagelock",
+        "incywincy",
+        "indexer",
+        "infobee",
+        "informant",
+        "ingrid",
+        "inktomisearch.com",
+        "inspector web",
+        "intelliagent",
+        "internet shinchakubin",
+        "ip3000",
+        "iron33",
+        "israeli-search",
+        "ivia",
+        "jack",
+        "jakarta",
+        "javabee",
+        "jetbot",
+        "jumpstation",
+        "katipo",
+        "kdd-explorer",
+        "kilroy",
+        "knowledge",
+        "kototoi",
+        "kretrieve",
+        "labelgrabber",
+        "lachesis",
+        "larbin",
+        "legs",
+        "libwww",
+        "linkalarm",
+        "link validator",
+        "linkscan",
+        "lockon",
+        "lwp",
+        "lycos",
+        "magpie",
+        "mantraagent",
+        "mapoftheinternet",
+        "marvin/",
+        "mattie",
+        "mediafox",
+        "mediapartners",
+        "mercator",
+        "merzscope",
+        "microsoft url control",
+        "minirank",
+        "miva",
+        "mj12",
+        "mnogosearch",
+        "moget",
+        "monster",
+        "moose",
+        "motor",
+        "multitext",
+        "muncher",
+        "muscatferret",
+        "mwd.search",
+        "myweb",
+        "najdi",
+        "nameprotect",
+        "nationaldirectory",
+        "nazilla",
+        "ncsa beta",
+        "nec-meshexplorer",
+        "nederland.zoek",
+        "netcarta webmap engine",
+        "netmechanic",
+        "netresearchserver",
+        "netscoop",
+        "newscan-online",
+        "nhse",
+        "nokia6682/",
+        "nomad",
+        "noyona",
+        "nutch",
+        "nzexplorer",
+        "objectssearch",
+        "occam",
+        "omni",
+        "open text",
+        "openfind",
+        "openintelligencedata",
+        "orb search",
+        "osis-project",
+        "pack rat",
+        "pageboy",
+        "pagebull",
+        "page_verifier",
+        "panscient",
+        "parasite",
+        "partnersite",
+        "patric",
+        "pear.",
+        "pegasus",
+        "peregrinator",
+        "pgp key agent",
+        "phantom",
+        "phpdig",
+        "picosearch",
+        "piltdownman",
+        "pimptrain",
+        "pinpoint",
+        "pioneer",
+        "piranha",
+        "plumtreewebaccessor",
+        "pogodak",
+        "poirot",
+        "pompos",
+        "poppelsdorf",
+        "poppi",
+        "popular iconoclast",
+        "psycheclone",
+        "publisher",
+        "python",
+        "rambler",
+        "raven search",
+        "roach",
+        "road runner",
+        "roadhouse",
+        "robbie",
+        "robofox",
+        "robozilla",
+        "rules",
+        "salty",
+        "sbider",
+        "scooter",
+        "scoutjet",
+        "scrubby",
+        "search.",
+        "searchprocess",
+        "semanticdiscovery",
+        "senrigan",
+        "sg-scout",
+        "shai'hulud",
+        "shark",
+        "shopwiki",
+        "sidewinder",
+        "sift",
+        "silk",
+        "simmany",
+        "site searcher",
+        "site valet",
+        "sitetech-rover",
+        "skymob.com",
+        "sleek",
+        "smartwit",
+        "sna-",
+        "snappy",
+        "snooper",
+        "sohu",
+        "speedfind",
+        "sphere",
+        "sphider",
+        "spinner",
+        "spyder",
+        "steeler/",
+        "suke",
+        "suntek",
+        "supersnooper",
+        "surfnomore",
+        "sven",
+        "sygol",
+        "szukacz",
+        "tach black widow",
+        "tarantula",
+        "templeton",
+        "/teoma",
+        "t-h-u-n-d-e-r-s-t-o-n-e",
+        "theophrastus",
+        "titan",
+        "titin",
+        "tkwww",
+        "toutatis",
+        "t-rex",
+        "tutorgig",
+        "twiceler",
+        "twisted",
+        "ucsd",
+        "udmsearch",
+        "url check",
+        "updated",
+        "vagabondo",
+        "valkyrie",
+        "verticrawl",
+        "victoria",
+        "vision-search",
+        "volcano",
+        "voyager/",
+        "voyager-hc",
+        "w3c_validator",
+        "w3m2",
+        "w3mir",
+        "walker",
+        "wallpaper",
+        "wanderer",
+        "wauuu",
+        "wavefire",
+        "web core",
+        "web hopper",
+        "web wombat",
+        "webbandit",
+        "webcatcher",
+        "webcopy",
+        "webfoot",
+        "weblayers",
+        "weblinker",
+        "weblog monitor",
+        "webmirror",
+        "webmonkey",
+        "webquest",
+        "webreaper",
+        "websitepulse",
+        "websnarf",
+        "webstolperer",
+        "webvac",
+        "webwalk",
+        "webwatch",
+        "webwombat",
+        "webzinger",
+        "wget",
+        "whizbang",
+        "whowhere",
+        "wild ferret",
+        "worldlight",
+        "wwwc",
+        "wwwster",
+        "xenu",
+        "xget",
+        "xift",
+        "xirq",
+        "yandex",
+        "yanga",
+        "yeti",
+        "yodao",
+        "zao/",
+        "zippp",
+        "zyborg",
+    );
+ 
+    foreach($spiders as $spider) {
+        if ( stripos($_SERVER['HTTP_USER_AGENT'], $spider) !== false ) return true;
+    }
+    return false;
+}
+ 
+if(!is_bot()) {
+						$fichier_compteur = fopen('../../visites.txt', 'r+');
+						$vues = fgets($fichier_compteur);
+						$vues++;
+						fseek($fichier_compteur, 0);
+						fputs($fichier_compteur, $vues);
+						fclose($fichier_compteur);
+}
+?>
+<?php
+$useragent=$_SERVER['HTTP_USER_AGENT'];
+if(preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i',$useragent)||preg_match('/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i',substr($useragent,0,4))) {
+    echo "<p align='center'>2016 - 2026 &copy; <a href='https://chat-caramail.fr' target='_blank'>chat-caramail.fr</a> - Le service de discussion, son administration ainsi que sa modération sont assurés par un prestataire tiers indépendant. Le site agit uniquement comme interface technique d’accès à ce service et n’assure ni l’hébergement des échanges ni la modération des contenus publiés via le service de discussion. Toute référence à « Caramail » est effectuée à titre descriptif et historique. Cette marque appartient à ses titulaires respectifs. Le présent site n’est ni affilié, ni associé, ni sponsorisé, ni exploité par cette marque ou ses ayants droit, et ne constitue en aucun cas un service officiel.</p>";
+} else {
+    echo "<p align='center'>2016 - 2026 &copy; <a href='https://chat-caramail.fr' target='_blank'>chat-caramail.fr</a> - Le service de discussion, son administration ainsi que sa modération sont assurés par un prestataire tiers indépendant. Le site agit uniquement comme interface technique d’accès à ce service et n’assure ni l’hébergement des échanges ni la modération des contenus publiés via le service de discussion. Toute référence à « Caramail » est effectuée à titre descriptif et historique. Cette marque appartient à ses titulaires respectifs. Le présent site n’est ni affilié, ni associé, ni sponsorisé, ni exploité par cette marque ou ses ayants droit, et ne constitue en aucun cas un service officiel.</p>";
+}
+$visites = file_get_contents('../../visites.txt'); // toujours lisible en interne si besoin
+?>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- JS -->
+
+	<!-- jQuery & Foundation Framework -->
+  <script type="text/javascript" src="../../assets/scripts/jquery.js"></script>
+  <script type="text/javascript" src="../../assets/scripts/foundation.min.js"></script>
+  
+  <!-- Plugins -->
+  
+  <script type="text/javascript" src="../../assets/scripts/plugins/carouFredSel/jquery.carouFredSel-6.2.0-packed.js"></script>
+  <script type="text/javascript" src="../../assets/scripts/plugins/quovolver/jquery.quovolver.js"></script><!--Quote rotator-->
+  <script type="text/javascript" src="../../assets/scripts/plugins/backgroundSize/jquery.backgroundSize.js"></script><!--BackgroundSize for IE8-->
+  <script type="text/javascript" src="../../assets/scripts/app.js"></script>
+  
+ 
+</body>
+</html>
